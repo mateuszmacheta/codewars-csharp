@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\C#\regex\bin\Debug\netcoreapp2.2\regex.deps.json
+C:\Users\machetam\Documents\_old\C#\regex\bin\Debug\netcoreapp2.2\regex.runtimeconfig.json
+C:\Users\machetam\Documents\_old\C#\regex\bin\Debug\netcoreapp2.2\regex.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\C#\regex\bin\Debug\netcoreapp2.2\regex.dll
+C:\Users\machetam\Documents\_old\C#\regex\bin\Debug\netcoreapp2.2\regex.pdb
+C:\Users\machetam\Documents\_old\C#\regex\obj\Debug\netcoreapp2.2\regex.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\C#\regex\obj\Debug\netcoreapp2.2\regex.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\C#\regex\obj\Debug\netcoreapp2.2\regex.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\C#\regex\obj\Debug\netcoreapp2.2\regex.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\C#\regex\obj\Debug\netcoreapp2.2\regex.dll
+C:\Users\machetam\Documents\_old\C#\regex\obj\Debug\netcoreapp2.2\regex.pdb

@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\bin\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.deps.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\bin\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.runtimeconfig.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\bin\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.runtimeconfig.dev.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\bin\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\bin\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.pdb
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\obj\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\obj\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\obj\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\obj\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.AssemblyInfo.cs
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\obj\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-palindrome-integer-composition\obj\Debug\netcoreapp2.2\codewars-palindrome-integer-composition.pdb

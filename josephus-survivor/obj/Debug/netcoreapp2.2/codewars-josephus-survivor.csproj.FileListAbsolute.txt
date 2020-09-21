@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\bin\Debug\netcoreapp2.2\codewars-josephus-survivor.deps.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\bin\Debug\netcoreapp2.2\codewars-josephus-survivor.runtimeconfig.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\bin\Debug\netcoreapp2.2\codewars-josephus-survivor.runtimeconfig.dev.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\bin\Debug\netcoreapp2.2\codewars-josephus-survivor.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\bin\Debug\netcoreapp2.2\codewars-josephus-survivor.pdb
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\obj\Debug\netcoreapp2.2\codewars-josephus-survivor.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\obj\Debug\netcoreapp2.2\codewars-josephus-survivor.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\obj\Debug\netcoreapp2.2\codewars-josephus-survivor.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\obj\Debug\netcoreapp2.2\codewars-josephus-survivor.AssemblyInfo.cs
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\obj\Debug\netcoreapp2.2\codewars-josephus-survivor.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-josephus-survivor\obj\Debug\netcoreapp2.2\codewars-josephus-survivor.pdb

@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\bin\Debug\netcoreapp2.2\color-choose.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\bin\Debug\netcoreapp2.2\color-choose.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\bin\Debug\netcoreapp2.2\color-choose.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\bin\Debug\netcoreapp2.2\color-choose.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\bin\Debug\netcoreapp2.2\color-choose.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\obj\Debug\netcoreapp2.2\color-choose.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\obj\Debug\netcoreapp2.2\color-choose.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\obj\Debug\netcoreapp2.2\color-choose.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\obj\Debug\netcoreapp2.2\color-choose.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\obj\Debug\netcoreapp2.2\color-choose.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\color-choose\obj\Debug\netcoreapp2.2\color-choose.pdb

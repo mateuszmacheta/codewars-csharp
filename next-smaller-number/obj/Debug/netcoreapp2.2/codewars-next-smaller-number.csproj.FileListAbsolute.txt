@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\bin\Debug\netcoreapp2.2\codewars-next-smaller-number.deps.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\bin\Debug\netcoreapp2.2\codewars-next-smaller-number.runtimeconfig.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\bin\Debug\netcoreapp2.2\codewars-next-smaller-number.runtimeconfig.dev.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\bin\Debug\netcoreapp2.2\codewars-next-smaller-number.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\bin\Debug\netcoreapp2.2\codewars-next-smaller-number.pdb
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\obj\Debug\netcoreapp2.2\codewars-next-smaller-number.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\obj\Debug\netcoreapp2.2\codewars-next-smaller-number.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\obj\Debug\netcoreapp2.2\codewars-next-smaller-number.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\obj\Debug\netcoreapp2.2\codewars-next-smaller-number.AssemblyInfo.cs
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\obj\Debug\netcoreapp2.2\codewars-next-smaller-number.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-next-smaller-number\obj\Debug\netcoreapp2.2\codewars-next-smaller-number.pdb

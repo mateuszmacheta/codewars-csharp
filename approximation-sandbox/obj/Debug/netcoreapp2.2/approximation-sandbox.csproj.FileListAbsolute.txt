@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\bin\Debug\netcoreapp2.2\approximation-sandbox.deps.json
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\bin\Debug\netcoreapp2.2\approximation-sandbox.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\bin\Debug\netcoreapp2.2\approximation-sandbox.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\bin\Debug\netcoreapp2.2\approximation-sandbox.dll
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\bin\Debug\netcoreapp2.2\approximation-sandbox.pdb
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\obj\Debug\netcoreapp2.2\approximation-sandbox.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\obj\Debug\netcoreapp2.2\approximation-sandbox.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\obj\Debug\netcoreapp2.2\approximation-sandbox.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\obj\Debug\netcoreapp2.2\approximation-sandbox.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\obj\Debug\netcoreapp2.2\approximation-sandbox.dll
+C:\Users\machetam\Documents\_old\Csharp\approximation-sandbox\obj\Debug\netcoreapp2.2\approximation-sandbox.pdb

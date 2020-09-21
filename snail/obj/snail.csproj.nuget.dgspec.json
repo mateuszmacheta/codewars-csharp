@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\machetam\\Documents\\_old\\C#\\codewars\\snail\\snail.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\machetam\\Documents\\_old\\C#\\codewars\\snail\\snail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\C#\\codewars\\snail\\snail.csproj",
+        "projectName": "snail",
+        "projectPath": "C:\\Users\\machetam\\Documents\\_old\\C#\\codewars\\snail\\snail.csproj",
+        "packagesPath": "C:\\Users\\machetam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\machetam\\Documents\\_old\\C#\\codewars\\snail\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\machetam\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Users\\machetam\\Documents\\Git\\rpa_coe\\UiPathActivities\\Nuget": {},
+          "http://abgproxya.abg.fsc.net:82": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

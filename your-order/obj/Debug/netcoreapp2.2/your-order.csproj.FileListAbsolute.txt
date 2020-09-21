@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\your-order\bin\Debug\netcoreapp2.2\your-order.deps.json
+C:\Users\machetam\Documents\_old\Csharp\your-order\bin\Debug\netcoreapp2.2\your-order.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\your-order\bin\Debug\netcoreapp2.2\your-order.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\your-order\bin\Debug\netcoreapp2.2\your-order.dll
+C:\Users\machetam\Documents\_old\Csharp\your-order\bin\Debug\netcoreapp2.2\your-order.pdb
+C:\Users\machetam\Documents\_old\Csharp\your-order\obj\Debug\netcoreapp2.2\your-order.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\your-order\obj\Debug\netcoreapp2.2\your-order.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\your-order\obj\Debug\netcoreapp2.2\your-order.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\your-order\obj\Debug\netcoreapp2.2\your-order.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\your-order\obj\Debug\netcoreapp2.2\your-order.dll
+C:\Users\machetam\Documents\_old\Csharp\your-order\obj\Debug\netcoreapp2.2\your-order.pdb

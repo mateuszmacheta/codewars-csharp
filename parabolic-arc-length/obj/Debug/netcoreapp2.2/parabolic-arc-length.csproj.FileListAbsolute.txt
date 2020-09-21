@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\bin\Debug\netcoreapp2.2\parabolic-arc-length.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\bin\Debug\netcoreapp2.2\parabolic-arc-length.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\bin\Debug\netcoreapp2.2\parabolic-arc-length.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\bin\Debug\netcoreapp2.2\parabolic-arc-length.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\bin\Debug\netcoreapp2.2\parabolic-arc-length.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\obj\Debug\netcoreapp2.2\parabolic-arc-length.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\obj\Debug\netcoreapp2.2\parabolic-arc-length.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\obj\Debug\netcoreapp2.2\parabolic-arc-length.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\obj\Debug\netcoreapp2.2\parabolic-arc-length.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\obj\Debug\netcoreapp2.2\parabolic-arc-length.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\parabolic-arc-length\obj\Debug\netcoreapp2.2\parabolic-arc-length.pdb

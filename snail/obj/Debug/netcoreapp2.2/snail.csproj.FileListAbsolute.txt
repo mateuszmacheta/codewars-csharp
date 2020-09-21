@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\C#\codewars\snail\bin\Debug\netcoreapp2.2\snail.deps.json
+C:\Users\machetam\Documents\_old\C#\codewars\snail\bin\Debug\netcoreapp2.2\snail.runtimeconfig.json
+C:\Users\machetam\Documents\_old\C#\codewars\snail\bin\Debug\netcoreapp2.2\snail.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\C#\codewars\snail\bin\Debug\netcoreapp2.2\snail.dll
+C:\Users\machetam\Documents\_old\C#\codewars\snail\bin\Debug\netcoreapp2.2\snail.pdb
+C:\Users\machetam\Documents\_old\C#\codewars\snail\obj\Debug\netcoreapp2.2\snail.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\C#\codewars\snail\obj\Debug\netcoreapp2.2\snail.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\snail\obj\Debug\netcoreapp2.2\snail.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\snail\obj\Debug\netcoreapp2.2\snail.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\C#\codewars\snail\obj\Debug\netcoreapp2.2\snail.dll
+C:\Users\machetam\Documents\_old\C#\codewars\snail\obj\Debug\netcoreapp2.2\snail.pdb

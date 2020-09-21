@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\bin\Debug\netcoreapp2.2\x-for-sum.deps.json
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\bin\Debug\netcoreapp2.2\x-for-sum.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\bin\Debug\netcoreapp2.2\x-for-sum.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\bin\Debug\netcoreapp2.2\x-for-sum.dll
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\bin\Debug\netcoreapp2.2\x-for-sum.pdb
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\obj\Debug\netcoreapp2.2\x-for-sum.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\obj\Debug\netcoreapp2.2\x-for-sum.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\obj\Debug\netcoreapp2.2\x-for-sum.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\obj\Debug\netcoreapp2.2\x-for-sum.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\obj\Debug\netcoreapp2.2\x-for-sum.dll
+C:\Users\machetam\Documents\_old\Csharp\x-for-sum\obj\Debug\netcoreapp2.2\x-for-sum.pdb

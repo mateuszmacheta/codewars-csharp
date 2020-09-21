@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\bin\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.deps.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\bin\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.runtimeconfig.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\bin\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.runtimeconfig.dev.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\bin\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\bin\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.pdb
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\obj\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\obj\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\obj\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\obj\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.AssemblyInfo.cs
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\obj\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-hexagon-beam-max-sum\obj\Debug\netcoreapp2.2\codewars-hexagon-beam-max-sum.pdb

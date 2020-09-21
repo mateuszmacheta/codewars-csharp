@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\obj\Debug\netcoreapp2.2\solomons-quest.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\obj\Debug\netcoreapp2.2\solomons-quest.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\obj\Debug\netcoreapp2.2\solomons-quest.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\obj\Debug\netcoreapp2.2\solomons-quest.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\bin\Debug\netcoreapp2.2\solomons-quest.deps.json
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\bin\Debug\netcoreapp2.2\solomons-quest.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\bin\Debug\netcoreapp2.2\solomons-quest.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\bin\Debug\netcoreapp2.2\solomons-quest.dll
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\bin\Debug\netcoreapp2.2\solomons-quest.pdb
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\obj\Debug\netcoreapp2.2\solomons-quest.dll
+C:\Users\machetam\Documents\_old\Csharp\solomons-quest\obj\Debug\netcoreapp2.2\solomons-quest.pdb

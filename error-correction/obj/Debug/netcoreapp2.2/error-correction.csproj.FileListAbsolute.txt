@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\error-correction\obj\Debug\netcoreapp2.2\error-correction.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\error-correction\obj\Debug\netcoreapp2.2\error-correction.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\error-correction\obj\Debug\netcoreapp2.2\error-correction.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\error-correction\obj\Debug\netcoreapp2.2\error-correction.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\error-correction\bin\Debug\netcoreapp2.2\error-correction.deps.json
+C:\Users\machetam\Documents\_old\Csharp\error-correction\bin\Debug\netcoreapp2.2\error-correction.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\error-correction\bin\Debug\netcoreapp2.2\error-correction.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\error-correction\bin\Debug\netcoreapp2.2\error-correction.dll
+C:\Users\machetam\Documents\_old\Csharp\error-correction\bin\Debug\netcoreapp2.2\error-correction.pdb
+C:\Users\machetam\Documents\_old\Csharp\error-correction\obj\Debug\netcoreapp2.2\error-correction.dll
+C:\Users\machetam\Documents\_old\Csharp\error-correction\obj\Debug\netcoreapp2.2\error-correction.pdb

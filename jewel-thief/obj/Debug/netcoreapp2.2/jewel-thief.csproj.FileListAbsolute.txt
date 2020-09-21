@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\bin\Debug\netcoreapp2.2\jewel-thief.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\bin\Debug\netcoreapp2.2\jewel-thief.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\bin\Debug\netcoreapp2.2\jewel-thief.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\bin\Debug\netcoreapp2.2\jewel-thief.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\bin\Debug\netcoreapp2.2\jewel-thief.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\obj\Debug\netcoreapp2.2\jewel-thief.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\obj\Debug\netcoreapp2.2\jewel-thief.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\obj\Debug\netcoreapp2.2\jewel-thief.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\obj\Debug\netcoreapp2.2\jewel-thief.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\obj\Debug\netcoreapp2.2\jewel-thief.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\jewel-thief\obj\Debug\netcoreapp2.2\jewel-thief.pdb

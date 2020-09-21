@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\obj\Debug\netcoreapp2.2\human-readable-duration.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\obj\Debug\netcoreapp2.2\human-readable-duration.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\obj\Debug\netcoreapp2.2\human-readable-duration.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\obj\Debug\netcoreapp2.2\human-readable-duration.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\bin\Debug\netcoreapp2.2\human-readable-duration.deps.json
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\bin\Debug\netcoreapp2.2\human-readable-duration.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\bin\Debug\netcoreapp2.2\human-readable-duration.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\bin\Debug\netcoreapp2.2\human-readable-duration.dll
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\bin\Debug\netcoreapp2.2\human-readable-duration.pdb
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\obj\Debug\netcoreapp2.2\human-readable-duration.dll
+C:\Users\machetam\Documents\_old\Csharp\human-readable-duration\obj\Debug\netcoreapp2.2\human-readable-duration.pdb

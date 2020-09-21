@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\obj\Debug\netcoreapp2.2\crack-the-PIN.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\obj\Debug\netcoreapp2.2\crack-the-PIN.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\obj\Debug\netcoreapp2.2\crack-the-PIN.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\obj\Debug\netcoreapp2.2\crack-the-PIN.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\bin\Debug\netcoreapp2.2\crack-the-PIN.deps.json
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\bin\Debug\netcoreapp2.2\crack-the-PIN.runtimeconfig.json
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\bin\Debug\netcoreapp2.2\crack-the-PIN.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\bin\Debug\netcoreapp2.2\crack-the-PIN.dll
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\bin\Debug\netcoreapp2.2\crack-the-PIN.pdb
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\obj\Debug\netcoreapp2.2\crack-the-PIN.dll
+C:\Users\machetam\Documents\_old\C#\codewars\crack-the-PIN\obj\Debug\netcoreapp2.2\crack-the-PIN.pdb

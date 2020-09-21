@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\obj\Debug\netcoreapp2.2\codewars.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\obj\Debug\netcoreapp2.2\codewars.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\obj\Debug\netcoreapp2.2\codewars.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\obj\Debug\netcoreapp2.2\codewars.AssemblyInfo.cs
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\bin\Debug\netcoreapp2.2\codewars.deps.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\bin\Debug\netcoreapp2.2\codewars.runtimeconfig.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\bin\Debug\netcoreapp2.2\codewars.runtimeconfig.dev.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\bin\Debug\netcoreapp2.2\codewars.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\bin\Debug\netcoreapp2.2\codewars.pdb
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\obj\Debug\netcoreapp2.2\codewars.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-camel-case\obj\Debug\netcoreapp2.2\codewars.pdb

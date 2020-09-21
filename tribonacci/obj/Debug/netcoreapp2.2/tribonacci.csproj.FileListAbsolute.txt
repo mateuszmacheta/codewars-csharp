@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\obj\Debug\netcoreapp2.2\tribonacci.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\obj\Debug\netcoreapp2.2\tribonacci.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\obj\Debug\netcoreapp2.2\tribonacci.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\obj\Debug\netcoreapp2.2\tribonacci.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\bin\Debug\netcoreapp2.2\tribonacci.deps.json
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\bin\Debug\netcoreapp2.2\tribonacci.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\bin\Debug\netcoreapp2.2\tribonacci.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\bin\Debug\netcoreapp2.2\tribonacci.dll
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\bin\Debug\netcoreapp2.2\tribonacci.pdb
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\obj\Debug\netcoreapp2.2\tribonacci.dll
+C:\Users\machetam\Documents\_old\Csharp\tribonacci\obj\Debug\netcoreapp2.2\tribonacci.pdb

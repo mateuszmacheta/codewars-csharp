@@ -1,0 +1,82 @@
+﻿using System;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace codewars_palindrome_integer_composition
+{
+    class Program08
+    {
+        public static string Reverse(string text)
+        {
+            char[] array = text.ToCharArray();
+            Array.Reverse(array);
+            return new String(array);
+        }
+
+        public static int assertPalindrome(int palindrome, int[] squares)
+        {
+            squares = squares.Where(i => i < palindrome).ToArray();
+            int squareCount = squares.Count() - 1;
+            //Console.WriteLine("squareCount: {0}", squareCount);
+            if (squareCount > 2)
+            {
+                // all ranges of consecutive numbers from 2 up to count - 1
+                for (int range = 2; range < squareCount - 1; range++)
+                {
+                    // all shift
+                    for (int shift = 1; shift < squareCount - range + 1; shift++)
+                    {
+                        //Console.WriteLine("range: {0}, shift: {1}", range, shift);
+                        int sum = 0;
+                        // sum all consec numbers
+                        for (int i = 0; i < range; i++)
+                        {
+                            //Console.WriteLine(shift + i);
+                            sum += squares[shift + i];
+                        }
+                        if (sum == palindrome)
+                        {
+                            //Console.WriteLine(palindrome);
+                            return 1;
+                        }
+                        else if (sum > palindrome)
+                        { break; }
+                    }
+
+                }
+            }
+            else if (squareCount == 2 && squares.Sum() == palindrome)
+            { //Console.WriteLine(palindrome);
+                return 1;
+            }
+            return 0;
+        }
+        public static int values(int n)
+        {
+
+            int result = 0;
+            List<int> palindromes = new List<int>();
+
+            for (int i = 2; i <= n; i++)
+            {
+                if (i.ToString() == Reverse(i.ToString()))
+                { palindromes.Add(i); }
+            }
+
+            int maxSquareBase = Convert.ToInt32(Math.Floor(Math.Sqrt(palindromes.Last())));
+            int[] squares = new int[maxSquareBase + 1];
+            for (int i = 1; i <= maxSquareBase; i++)
+            { squares[i] = Convert.ToInt32(Math.Pow(i, 2)); }
+
+            foreach (int palindrome in palindromes)
+            {
+                result += assertPalindrome(palindrome, squares);
+            }
+            return result;
+        }
+        static void Main(string[] args)
+        {
+            Console.WriteLine("answer: {0}", values(100));
+        }
+    }
+}

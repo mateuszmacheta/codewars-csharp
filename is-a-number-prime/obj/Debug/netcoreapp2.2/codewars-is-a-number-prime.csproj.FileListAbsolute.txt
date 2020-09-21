@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\obj\Debug\netcoreapp2.2\codewars-is-a-number-prime.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\obj\Debug\netcoreapp2.2\codewars-is-a-number-prime.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\obj\Debug\netcoreapp2.2\codewars-is-a-number-prime.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\obj\Debug\netcoreapp2.2\codewars-is-a-number-prime.AssemblyInfo.cs
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\bin\Debug\netcoreapp2.2\codewars-is-a-number-prime.deps.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\bin\Debug\netcoreapp2.2\codewars-is-a-number-prime.runtimeconfig.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\bin\Debug\netcoreapp2.2\codewars-is-a-number-prime.runtimeconfig.dev.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\bin\Debug\netcoreapp2.2\codewars-is-a-number-prime.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\bin\Debug\netcoreapp2.2\codewars-is-a-number-prime.pdb
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\obj\Debug\netcoreapp2.2\codewars-is-a-number-prime.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-is-a-number-prime\obj\Debug\netcoreapp2.2\codewars-is-a-number-prime.pdb

@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\bin\Debug\netcoreapp2.2\mixbonacci.deps.json
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\bin\Debug\netcoreapp2.2\mixbonacci.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\bin\Debug\netcoreapp2.2\mixbonacci.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\bin\Debug\netcoreapp2.2\mixbonacci.dll
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\bin\Debug\netcoreapp2.2\mixbonacci.pdb
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\obj\Debug\netcoreapp2.2\mixbonacci.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\obj\Debug\netcoreapp2.2\mixbonacci.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\obj\Debug\netcoreapp2.2\mixbonacci.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\obj\Debug\netcoreapp2.2\mixbonacci.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\obj\Debug\netcoreapp2.2\mixbonacci.dll
+C:\Users\machetam\Documents\_old\Csharp\mixbonacci\obj\Debug\netcoreapp2.2\mixbonacci.pdb

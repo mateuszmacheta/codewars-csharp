@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\obj\Debug\netcoreapp2.2\count-ip-addresses.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\obj\Debug\netcoreapp2.2\count-ip-addresses.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\obj\Debug\netcoreapp2.2\count-ip-addresses.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\obj\Debug\netcoreapp2.2\count-ip-addresses.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\bin\Debug\netcoreapp2.2\count-ip-addresses.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\bin\Debug\netcoreapp2.2\count-ip-addresses.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\bin\Debug\netcoreapp2.2\count-ip-addresses.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\bin\Debug\netcoreapp2.2\count-ip-addresses.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\bin\Debug\netcoreapp2.2\count-ip-addresses.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\obj\Debug\netcoreapp2.2\count-ip-addresses.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\count-ip-addresses\obj\Debug\netcoreapp2.2\count-ip-addresses.pdb

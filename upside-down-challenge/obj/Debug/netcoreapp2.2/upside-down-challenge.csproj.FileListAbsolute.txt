@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\bin\Debug\netcoreapp2.2\upside-down-challenge.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\bin\Debug\netcoreapp2.2\upside-down-challenge.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\bin\Debug\netcoreapp2.2\upside-down-challenge.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\bin\Debug\netcoreapp2.2\upside-down-challenge.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\bin\Debug\netcoreapp2.2\upside-down-challenge.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\obj\Debug\netcoreapp2.2\upside-down-challenge.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\obj\Debug\netcoreapp2.2\upside-down-challenge.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\obj\Debug\netcoreapp2.2\upside-down-challenge.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\obj\Debug\netcoreapp2.2\upside-down-challenge.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\obj\Debug\netcoreapp2.2\upside-down-challenge.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\upside-down-challenge\obj\Debug\netcoreapp2.2\upside-down-challenge.pdb

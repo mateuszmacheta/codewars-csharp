@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\bin\Debug\netcoreapp2.2\simple-assembler-interpreter.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\bin\Debug\netcoreapp2.2\simple-assembler-interpreter.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\bin\Debug\netcoreapp2.2\simple-assembler-interpreter.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\bin\Debug\netcoreapp2.2\simple-assembler-interpreter.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\bin\Debug\netcoreapp2.2\simple-assembler-interpreter.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\obj\Debug\netcoreapp2.2\simple-assembler-interpreter.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\obj\Debug\netcoreapp2.2\simple-assembler-interpreter.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\obj\Debug\netcoreapp2.2\simple-assembler-interpreter.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\obj\Debug\netcoreapp2.2\simple-assembler-interpreter.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\obj\Debug\netcoreapp2.2\simple-assembler-interpreter.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-assembler-interpreter\obj\Debug\netcoreapp2.2\simple-assembler-interpreter.pdb

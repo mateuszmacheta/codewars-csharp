@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\battleships\obj\Debug\netcoreapp2.2\battleships.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\battleships\obj\Debug\netcoreapp2.2\battleships.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\battleships\obj\Debug\netcoreapp2.2\battleships.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\battleships\obj\Debug\netcoreapp2.2\battleships.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\battleships\bin\Debug\netcoreapp2.2\battleships.deps.json
+C:\Users\machetam\Documents\_old\Csharp\battleships\bin\Debug\netcoreapp2.2\battleships.dll
+C:\Users\machetam\Documents\_old\Csharp\battleships\bin\Debug\netcoreapp2.2\battleships.pdb
+C:\Users\machetam\Documents\_old\Csharp\battleships\obj\Debug\netcoreapp2.2\battleships.dll
+C:\Users\machetam\Documents\_old\Csharp\battleships\obj\Debug\netcoreapp2.2\battleships.pdb
+C:\Users\machetam\Documents\_old\Csharp\battleships\bin\Debug\netcoreapp2.2\battleships.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\battleships\bin\Debug\netcoreapp2.2\battleships.runtimeconfig.dev.json

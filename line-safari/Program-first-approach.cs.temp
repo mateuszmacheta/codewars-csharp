@@ -1,0 +1,150 @@
+﻿using System;
+using System.Linq;
+
+namespace codewars_line_safari2
+{
+    class Program
+    {
+        public static void printGrid(char[][] grid)
+        {
+            for (int i = 0; i < grid.Length; i++)
+            {
+                Console.WriteLine(new string(grid[i]));
+            }
+        }
+
+        public static int[,] countsGrid(char[][] grid)
+        {
+            int width = grid[0].Length;
+            int height = grid.Length;
+            int[,] counts = new int[height, width];
+            Console.WriteLine("w {0} h {1}", width, height);
+            for (int y = 0; y < height; y++)
+            {
+                for (int x = 0; x < width; x++)
+                {
+                    int count = 0; // how many connections to adjacent fields
+                    char current = grid[y][x];
+                    switch (current)
+                    {
+                        case 'X':
+                        case '+':
+                            // check upper
+                            if ((y - 1) >= 0)
+                            {
+                                if (grid[y - 1][x] != '-'
+                                && grid[y - 1][x] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            // check lower
+                            if ((y + 1) < height)
+                            {
+                                if (grid[y + 1][x] != '-'
+                                && grid[y + 1][x] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            // check left
+                            if ((x - 1) >= 0)
+                            {
+                                if (grid[y][x - 1] != '|'
+                                && grid[y][x - 1] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            // check right
+                            if ((x + 1) < width)
+                            {
+                                if (grid[y][x + 1] != '|'
+                                && grid[y][x + 1] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            break;
+                        case '|':
+                            // check upper
+                            if ((y - 1) >= 0)
+                            {
+                                if (grid[y - 1][x] != '|'
+                                    && grid[y - 1][x] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            // check lower
+                            if ((y + 1) < height)
+                            {
+                                if (grid[y + 1][x] != '|'
+                                    && grid[y + 1][x] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            break;
+                        case '-':
+                            // check left
+                            if ((x - 1) >= 0)
+                            {
+                                if (grid[y][x - 1] != '|'
+                                && grid[y][x - 1] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            // check right
+                            if ((x + 1) < width)
+                            {
+                                if (grid[y][x + 1] != '|'
+                                && grid[y][x + 1] != ' ')
+                                {
+                                    count++;
+                                }
+                            }
+                            break;
+                        case ' ':
+                            break;
+                        default:
+                            return counts;
+                    }
+                    counts[y, x] = count;
+                }
+            }
+            //printGrid(counts);
+
+            return counts;
+        }
+
+        public static void printGrid(int[,] grid)
+        {
+            for (int i = 0; i < grid.GetLength(0); i++)
+            {
+                for (int j = 0; j < grid.GetLength(1); j++)
+                {
+                    Console.Write("" + grid[i, j]);
+                }
+                Console.WriteLine("");
+            }
+        }
+        public static bool Line(char[][] grid)
+        {
+            return true;
+        }
+        static void Main(string[] args)
+        {
+            char[][] grid = {
+            "           ".ToCharArray(),
+            "X---------X".ToCharArray(),
+            "           ".ToCharArray(),
+            "           ".ToCharArray()
+        };
+
+            //printGrid(grid);
+            Line(grid);
+        }
+    }
+}

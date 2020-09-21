@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\bin\Debug\netcoreapp2.2\burrows-wheeler.deps.json
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\bin\Debug\netcoreapp2.2\burrows-wheeler.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\bin\Debug\netcoreapp2.2\burrows-wheeler.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\bin\Debug\netcoreapp2.2\burrows-wheeler.dll
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\bin\Debug\netcoreapp2.2\burrows-wheeler.pdb
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\obj\Debug\netcoreapp2.2\burrows-wheeler.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\obj\Debug\netcoreapp2.2\burrows-wheeler.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\obj\Debug\netcoreapp2.2\burrows-wheeler.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\obj\Debug\netcoreapp2.2\burrows-wheeler.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\obj\Debug\netcoreapp2.2\burrows-wheeler.dll
+C:\Users\machetam\Documents\_old\Csharp\burrows-wheeler\obj\Debug\netcoreapp2.2\burrows-wheeler.pdb

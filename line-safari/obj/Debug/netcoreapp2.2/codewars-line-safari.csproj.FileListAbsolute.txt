@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\bin\Debug\netcoreapp2.2\codewars-line-safari.deps.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\bin\Debug\netcoreapp2.2\codewars-line-safari.runtimeconfig.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\bin\Debug\netcoreapp2.2\codewars-line-safari.runtimeconfig.dev.json
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\bin\Debug\netcoreapp2.2\codewars-line-safari.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\bin\Debug\netcoreapp2.2\codewars-line-safari.pdb
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\obj\Debug\netcoreapp2.2\codewars-line-safari.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\obj\Debug\netcoreapp2.2\codewars-line-safari.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\obj\Debug\netcoreapp2.2\codewars-line-safari.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\obj\Debug\netcoreapp2.2\codewars-line-safari.AssemblyInfo.cs
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\obj\Debug\netcoreapp2.2\codewars-line-safari.dll
+C:\Users\machetam\Documents\WindowsPowerShell\codewars\codewars-line-safari\obj\Debug\netcoreapp2.2\codewars-line-safari.pdb

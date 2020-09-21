@@ -1,0 +1,11 @@
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\bin\Debug\netcoreapp2.2\binomial-expansion.deps.json
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\bin\Debug\netcoreapp2.2\binomial-expansion.runtimeconfig.json
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\bin\Debug\netcoreapp2.2\binomial-expansion.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\bin\Debug\netcoreapp2.2\binomial-expansion.dll
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\bin\Debug\netcoreapp2.2\binomial-expansion.pdb
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\obj\Debug\netcoreapp2.2\binomial-expansion.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\obj\Debug\netcoreapp2.2\binomial-expansion.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\obj\Debug\netcoreapp2.2\binomial-expansion.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\obj\Debug\netcoreapp2.2\binomial-expansion.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\obj\Debug\netcoreapp2.2\binomial-expansion.dll
+C:\Users\machetam\Documents\_old\C#\codewars\binomial-expansion\obj\Debug\netcoreapp2.2\binomial-expansion.pdb
