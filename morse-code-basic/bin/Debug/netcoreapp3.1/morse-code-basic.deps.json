@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "morse-code-basic/1.0.0": {
+        "runtime": {
+          "morse-code-basic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "morse-code-basic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

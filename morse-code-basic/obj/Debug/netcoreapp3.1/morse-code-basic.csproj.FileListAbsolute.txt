@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\obj\Debug\netcoreapp3.1\morse-code-basic.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\obj\Debug\netcoreapp3.1\morse-code-basic.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\obj\Debug\netcoreapp3.1\morse-code-basic.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\obj\Debug\netcoreapp3.1\morse-code-basic.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\bin\Debug\netcoreapp3.1\morse-code-basic.exe
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\bin\Debug\netcoreapp3.1\morse-code-basic.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\bin\Debug\netcoreapp3.1\morse-code-basic.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\bin\Debug\netcoreapp3.1\morse-code-basic.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\bin\Debug\netcoreapp3.1\morse-code-basic.dll
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\bin\Debug\netcoreapp3.1\morse-code-basic.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\obj\Debug\netcoreapp3.1\morse-code-basic.dll
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\obj\Debug\netcoreapp3.1\morse-code-basic.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-basic\obj\Debug\netcoreapp3.1\morse-code-basic.genruntimeconfig.cache

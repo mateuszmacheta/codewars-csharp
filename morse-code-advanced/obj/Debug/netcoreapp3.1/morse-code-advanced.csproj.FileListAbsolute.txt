@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\bin\Debug\netcoreapp3.1\morse-code-advanced.exe
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\bin\Debug\netcoreapp3.1\morse-code-advanced.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\bin\Debug\netcoreapp3.1\morse-code-advanced.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\bin\Debug\netcoreapp3.1\morse-code-advanced.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\bin\Debug\netcoreapp3.1\morse-code-advanced.dll
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\bin\Debug\netcoreapp3.1\morse-code-advanced.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\obj\Debug\netcoreapp3.1\morse-code-advanced.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\obj\Debug\netcoreapp3.1\morse-code-advanced.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\obj\Debug\netcoreapp3.1\morse-code-advanced.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\obj\Debug\netcoreapp3.1\morse-code-advanced.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\obj\Debug\netcoreapp3.1\morse-code-advanced.dll
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\obj\Debug\netcoreapp3.1\morse-code-advanced.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\morse-code-advanced\obj\Debug\netcoreapp3.1\morse-code-advanced.genruntimeconfig.cache
