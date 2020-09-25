@@ -6,13 +6,13 @@ namespace codewars_is_a_number_prime
     {
         public static bool IsPrime(int n)
         {
-            if (n == 1 || n == 0)
+            if (n <= 1)
             { return false; }
             int divisor = 2;
             double root = Math.Sqrt(n);
             while (divisor <= root)
             {
-                double quotient = n / divisor;
+                double quotient = (double)n / divisor;
                 if (Math.Floor(quotient) == quotient)
                 {
                     return false;
@@ -23,7 +23,7 @@ namespace codewars_is_a_number_prime
         }
         static void Main(string[] args)
         {
-            bool result = IsPrime(5);
+            bool result = IsPrime(4);
             Console.WriteLine("{0}", result);
         }
     }

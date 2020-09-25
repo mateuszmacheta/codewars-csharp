@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\bin\Debug\netcoreapp3.1\does-my-number-look-big.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\bin\Debug\netcoreapp3.1\does-my-number-look-big.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\bin\Debug\netcoreapp3.1\does-my-number-look-big.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\bin\Debug\netcoreapp3.1\does-my-number-look-big.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\bin\Debug\netcoreapp3.1\does-my-number-look-big.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\bin\Debug\netcoreapp3.1\does-my-number-look-big.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\obj\Debug\netcoreapp3.1\does-my-number-look-big.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\obj\Debug\netcoreapp3.1\does-my-number-look-big.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\obj\Debug\netcoreapp3.1\does-my-number-look-big.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\obj\Debug\netcoreapp3.1\does-my-number-look-big.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\obj\Debug\netcoreapp3.1\does-my-number-look-big.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\obj\Debug\netcoreapp3.1\does-my-number-look-big.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\does-my-number-look-big\obj\Debug\netcoreapp3.1\does-my-number-look-big.genruntimeconfig.cache

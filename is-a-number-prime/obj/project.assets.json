@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\machetam\\Documents\\WindowsPowerShell\\codewars\\codewars-is-a-number-prime\\codewars-is-a-number-prime.csproj",
+      "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\is-a-number-prime\\codewars-is-a-number-prime.csproj",
       "projectName": "codewars-is-a-number-prime",
-      "projectPath": "C:\\Users\\machetam\\Documents\\WindowsPowerShell\\codewars\\codewars-is-a-number-prime\\codewars-is-a-number-prime.csproj",
+      "projectPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\is-a-number-prime\\codewars-is-a-number-prime.csproj",
       "packagesPath": "C:\\Users\\machetam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\machetam\\Documents\\WindowsPowerShell\\codewars\\codewars-is-a-number-prime\\obj\\",
+      "outputPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\is-a-number-prime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,10 +734,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

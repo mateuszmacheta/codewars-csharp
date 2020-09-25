@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\test\\test.csproj": {}
+    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\test\\test.csproj": {
+    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\test\\test.csproj",
+        "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\test\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\test\\test.csproj",
+        "projectPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\test\\test.csproj",
         "packagesPath": "C:\\Users\\machetam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\test\\obj\\",
+        "outputPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -49,10 +49,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

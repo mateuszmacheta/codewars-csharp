@@ -1,28 +1,26 @@
-﻿using System;
+﻿using System.Linq;
 using System.Collections.Generic;
-using System.Linq;
+using System;
 
 namespace test
 {
     class Program
     {
-        public static string sayMeOperations(string stringNumbers)
+        public static int Repeats(List<int> source)
         {
-            var array = stringNumbers.Split(" ").Select(int.Parse).ToArray();
-            int a = array[0];
-            int b = array[1];
-            var dict = new Dictionary<int, string> {
-              {a+b, "addition"},
-              {a-b, "substraction"},
-              {a*b, "multiplicaiton"},
-              {a/b, "division"}
-            };
-            return string.Join(", ", array.Skip(2).Select(i => dict[i]));
+            int sum = 0;
+            foreach (var group in source.GroupBy(x => x))
+            {
+                if (group.Count() == 1)
+                { sum += group.Key; }
+            }
+            return sum;
         }
 
         static void Main(string[] args)
         {
-            System.Console.WriteLine(sayMeOperations("1 2 3 5 8"));
+            var test = new List<int> { 4, 5, 7, 5, 4, 8 };
+            System.Console.WriteLine(Repeats(test));
         }
 
     }
