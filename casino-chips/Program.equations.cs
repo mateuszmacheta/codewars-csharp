@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-public class Solution_old
+public class Solution
 {
 
     public static int solve(int[] arr)
