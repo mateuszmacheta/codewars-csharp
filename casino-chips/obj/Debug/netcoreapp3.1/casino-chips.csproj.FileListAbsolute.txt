@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\bin\Debug\netcoreapp3.1\casino-chips.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\bin\Debug\netcoreapp3.1\casino-chips.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\bin\Debug\netcoreapp3.1\casino-chips.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\bin\Debug\netcoreapp3.1\casino-chips.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\bin\Debug\netcoreapp3.1\casino-chips.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\bin\Debug\netcoreapp3.1\casino-chips.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\obj\Debug\netcoreapp3.1\casino-chips.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\obj\Debug\netcoreapp3.1\casino-chips.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\obj\Debug\netcoreapp3.1\casino-chips.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\obj\Debug\netcoreapp3.1\casino-chips.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\obj\Debug\netcoreapp3.1\casino-chips.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\obj\Debug\netcoreapp3.1\casino-chips.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\casino-chips\obj\Debug\netcoreapp3.1\casino-chips.genruntimeconfig.cache
