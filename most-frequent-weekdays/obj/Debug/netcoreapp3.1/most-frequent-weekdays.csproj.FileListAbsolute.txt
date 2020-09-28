@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\bin\Debug\netcoreapp3.1\most-frequent-weekdays.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\bin\Debug\netcoreapp3.1\most-frequent-weekdays.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\bin\Debug\netcoreapp3.1\most-frequent-weekdays.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\bin\Debug\netcoreapp3.1\most-frequent-weekdays.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\bin\Debug\netcoreapp3.1\most-frequent-weekdays.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\bin\Debug\netcoreapp3.1\most-frequent-weekdays.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\obj\Debug\netcoreapp3.1\most-frequent-weekdays.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\obj\Debug\netcoreapp3.1\most-frequent-weekdays.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\obj\Debug\netcoreapp3.1\most-frequent-weekdays.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\obj\Debug\netcoreapp3.1\most-frequent-weekdays.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\obj\Debug\netcoreapp3.1\most-frequent-weekdays.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\obj\Debug\netcoreapp3.1\most-frequent-weekdays.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\most-frequent-weekdays\obj\Debug\netcoreapp3.1\most-frequent-weekdays.genruntimeconfig.cache

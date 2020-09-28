@@ -1,27 +1,46 @@
-﻿using System.Linq;
+﻿using System;
 using System.Collections.Generic;
-using System;
+using System.Linq;
+using System.Numerics;
 
 namespace test
 {
     class Program
     {
-        public static int Repeats(List<int> source)
+        public static BigInteger Choose(int n, int p)
         {
-            int sum = 0;
-            foreach (var group in source.GroupBy(x => x))
+            if (p > n) { return 0; }
+            return fastFactor(n, p) / factorial(n - p);
+        }
+
+        public static BigInteger fastFactor(int n, int k)
+        {
+            // computes n!/k!
+            BigInteger product = 1;
+            for (int i = k + 1; i <= n; i++)
             {
-                if (group.Count() == 1)
-                { sum += group.Key; }
+                product *= i;
             }
-            return sum;
+            return product;
+        }
+
+        public static BigInteger factorial(int n)
+        {
+            if (n == 0) { return 1; }
+            BigInteger product = 1;
+            for (int i = 2; i <= n; i++)
+            {
+                product *= i;
+            }
+            return product;
         }
 
         static void Main(string[] args)
         {
-            var test = new List<int> { 4, 5, 7, 5, 4, 8 };
-            System.Console.WriteLine(Repeats(test));
+            //var test = new List<int> { 15, 11, 10, 7, 8 };
+            System.Console.WriteLine(Choose(10, 20));
         }
 
     }
+
 }
