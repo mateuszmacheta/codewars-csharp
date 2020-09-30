@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\bin\Debug\netcoreapp3.1\missing-digit.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\bin\Debug\netcoreapp3.1\missing-digit.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\bin\Debug\netcoreapp3.1\missing-digit.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\bin\Debug\netcoreapp3.1\missing-digit.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\bin\Debug\netcoreapp3.1\missing-digit.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\bin\Debug\netcoreapp3.1\missing-digit.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\obj\Debug\netcoreapp3.1\missing-digit.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\obj\Debug\netcoreapp3.1\missing-digit.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\obj\Debug\netcoreapp3.1\missing-digit.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\obj\Debug\netcoreapp3.1\missing-digit.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\obj\Debug\netcoreapp3.1\missing-digit.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\obj\Debug\netcoreapp3.1\missing-digit.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\missing-digit\obj\Debug\netcoreapp3.1\missing-digit.genruntimeconfig.cache

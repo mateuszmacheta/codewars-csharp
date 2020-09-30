@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\bin\Debug\netcoreapp3.1\simple-square-numbers.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\bin\Debug\netcoreapp3.1\simple-square-numbers.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\bin\Debug\netcoreapp3.1\simple-square-numbers.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\bin\Debug\netcoreapp3.1\simple-square-numbers.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\bin\Debug\netcoreapp3.1\simple-square-numbers.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\bin\Debug\netcoreapp3.1\simple-square-numbers.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\obj\Debug\netcoreapp3.1\simple-square-numbers.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\obj\Debug\netcoreapp3.1\simple-square-numbers.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\obj\Debug\netcoreapp3.1\simple-square-numbers.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\obj\Debug\netcoreapp3.1\simple-square-numbers.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\obj\Debug\netcoreapp3.1\simple-square-numbers.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\obj\Debug\netcoreapp3.1\simple-square-numbers.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-square-numbers\obj\Debug\netcoreapp3.1\simple-square-numbers.genruntimeconfig.cache
