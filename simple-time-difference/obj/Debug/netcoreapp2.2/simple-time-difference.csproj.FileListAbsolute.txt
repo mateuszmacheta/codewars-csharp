@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\obj\Debug\netcoreapp2.2\simple-time-difference.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\obj\Debug\netcoreapp2.2\simple-time-difference.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\obj\Debug\netcoreapp2.2\simple-time-difference.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\obj\Debug\netcoreapp2.2\simple-time-difference.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\bin\Debug\netcoreapp2.2\simple-time-difference.deps.json
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\bin\Debug\netcoreapp2.2\simple-time-difference.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\bin\Debug\netcoreapp2.2\simple-time-difference.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\bin\Debug\netcoreapp2.2\simple-time-difference.dll
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\bin\Debug\netcoreapp2.2\simple-time-difference.pdb
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\obj\Debug\netcoreapp2.2\simple-time-difference.dll
+C:\Users\Blazej\Documents\C#\codwars\simple-time-difference\obj\Debug\netcoreapp2.2\simple-time-difference.pdb

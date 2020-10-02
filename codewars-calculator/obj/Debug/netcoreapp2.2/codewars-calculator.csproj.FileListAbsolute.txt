@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars-calculator\bin\Debug\netcoreapp2.2\codewars-calculator.deps.json
+C:\Users\Blazej\Documents\C#\codewars-calculator\bin\Debug\netcoreapp2.2\codewars-calculator.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars-calculator\bin\Debug\netcoreapp2.2\codewars-calculator.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars-calculator\bin\Debug\netcoreapp2.2\codewars-calculator.dll
+C:\Users\Blazej\Documents\C#\codewars-calculator\bin\Debug\netcoreapp2.2\codewars-calculator.pdb
+C:\Users\Blazej\Documents\C#\codewars-calculator\obj\Debug\netcoreapp2.2\codewars-calculator.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars-calculator\obj\Debug\netcoreapp2.2\codewars-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars-calculator\obj\Debug\netcoreapp2.2\codewars-calculator.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars-calculator\obj\Debug\netcoreapp2.2\codewars-calculator.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars-calculator\obj\Debug\netcoreapp2.2\codewars-calculator.dll
+C:\Users\Blazej\Documents\C#\codewars-calculator\obj\Debug\netcoreapp2.2\codewars-calculator.pdb

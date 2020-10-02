@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\obj\Debug\netcoreapp2.2\coderwars-vovel-count.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\obj\Debug\netcoreapp2.2\coderwars-vovel-count.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\obj\Debug\netcoreapp2.2\coderwars-vovel-count.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\obj\Debug\netcoreapp2.2\coderwars-vovel-count.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\bin\Debug\netcoreapp2.2\coderwars-vovel-count.deps.json
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\bin\Debug\netcoreapp2.2\coderwars-vovel-count.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\bin\Debug\netcoreapp2.2\coderwars-vovel-count.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\bin\Debug\netcoreapp2.2\coderwars-vovel-count.dll
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\bin\Debug\netcoreapp2.2\coderwars-vovel-count.pdb
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\obj\Debug\netcoreapp2.2\coderwars-vovel-count.dll
+C:\Users\Blazej\Documents\C#\coderwars-vovel-count\obj\Debug\netcoreapp2.2\coderwars-vovel-count.pdb

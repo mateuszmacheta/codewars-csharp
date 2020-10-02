@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\bin\Debug\netcoreapp2.2\numbers-power-sum-digits.deps.json
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\bin\Debug\netcoreapp2.2\numbers-power-sum-digits.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\bin\Debug\netcoreapp2.2\numbers-power-sum-digits.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\bin\Debug\netcoreapp2.2\numbers-power-sum-digits.dll
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\bin\Debug\netcoreapp2.2\numbers-power-sum-digits.pdb
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\obj\Debug\netcoreapp2.2\numbers-power-sum-digits.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\obj\Debug\netcoreapp2.2\numbers-power-sum-digits.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\obj\Debug\netcoreapp2.2\numbers-power-sum-digits.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\obj\Debug\netcoreapp2.2\numbers-power-sum-digits.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\obj\Debug\netcoreapp2.2\numbers-power-sum-digits.dll
+C:\Users\Blazej\Documents\C#\codewars\numbers-power-sum-digits\obj\Debug\netcoreapp2.2\numbers-power-sum-digits.pdb

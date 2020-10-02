@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\obj\Debug\netcoreapp2.2\simple-number-sequence.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\obj\Debug\netcoreapp2.2\simple-number-sequence.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\obj\Debug\netcoreapp2.2\simple-number-sequence.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\obj\Debug\netcoreapp2.2\simple-number-sequence.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\bin\Debug\netcoreapp2.2\simple-number-sequence.deps.json
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\bin\Debug\netcoreapp2.2\simple-number-sequence.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\bin\Debug\netcoreapp2.2\simple-number-sequence.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\bin\Debug\netcoreapp2.2\simple-number-sequence.dll
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\bin\Debug\netcoreapp2.2\simple-number-sequence.pdb
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\obj\Debug\netcoreapp2.2\simple-number-sequence.dll
+C:\Users\Blazej\Documents\C#\codwars\simple-number-sequence\obj\Debug\netcoreapp2.2\simple-number-sequence.pdb

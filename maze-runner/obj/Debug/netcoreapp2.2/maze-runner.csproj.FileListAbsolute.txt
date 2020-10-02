@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\bin\Debug\netcoreapp2.2\maze-runner.deps.json
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\bin\Debug\netcoreapp2.2\maze-runner.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\bin\Debug\netcoreapp2.2\maze-runner.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\bin\Debug\netcoreapp2.2\maze-runner.dll
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\bin\Debug\netcoreapp2.2\maze-runner.pdb
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\obj\Debug\netcoreapp2.2\maze-runner.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\obj\Debug\netcoreapp2.2\maze-runner.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\obj\Debug\netcoreapp2.2\maze-runner.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\obj\Debug\netcoreapp2.2\maze-runner.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\obj\Debug\netcoreapp2.2\maze-runner.dll
+C:\Users\Blazej\Documents\C#\codewars\maze-runner\obj\Debug\netcoreapp2.2\maze-runner.pdb

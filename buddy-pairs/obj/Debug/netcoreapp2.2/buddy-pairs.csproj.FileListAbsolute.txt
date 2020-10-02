@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\bin\Debug\netcoreapp2.2\buddy-pairs.deps.json
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\bin\Debug\netcoreapp2.2\buddy-pairs.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\bin\Debug\netcoreapp2.2\buddy-pairs.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\bin\Debug\netcoreapp2.2\buddy-pairs.dll
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\bin\Debug\netcoreapp2.2\buddy-pairs.pdb
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\obj\Debug\netcoreapp2.2\buddy-pairs.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\obj\Debug\netcoreapp2.2\buddy-pairs.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\obj\Debug\netcoreapp2.2\buddy-pairs.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\obj\Debug\netcoreapp2.2\buddy-pairs.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\obj\Debug\netcoreapp2.2\buddy-pairs.dll
+C:\Users\Blazej\Documents\C#\codewars\buddy-pairs\obj\Debug\netcoreapp2.2\buddy-pairs.pdb

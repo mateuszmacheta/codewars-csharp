@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\bin\Debug\netcoreapp2.2\become-immortal.deps.json
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\bin\Debug\netcoreapp2.2\become-immortal.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\bin\Debug\netcoreapp2.2\become-immortal.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\bin\Debug\netcoreapp2.2\become-immortal.dll
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\bin\Debug\netcoreapp2.2\become-immortal.pdb
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\obj\Debug\netcoreapp2.2\become-immortal.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\obj\Debug\netcoreapp2.2\become-immortal.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\obj\Debug\netcoreapp2.2\become-immortal.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\obj\Debug\netcoreapp2.2\become-immortal.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\obj\Debug\netcoreapp2.2\become-immortal.dll
+C:\Users\Blazej\Documents\C#\codwars\become-immortal\obj\Debug\netcoreapp2.2\become-immortal.pdb

@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\obj\Debug\netcoreapp2.2\codewars-get-middle-character.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\obj\Debug\netcoreapp2.2\codewars-get-middle-character.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\obj\Debug\netcoreapp2.2\codewars-get-middle-character.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\obj\Debug\netcoreapp2.2\codewars-get-middle-character.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\bin\Debug\netcoreapp2.2\codewars-get-middle-character.deps.json
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\bin\Debug\netcoreapp2.2\codewars-get-middle-character.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\bin\Debug\netcoreapp2.2\codewars-get-middle-character.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\bin\Debug\netcoreapp2.2\codewars-get-middle-character.dll
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\bin\Debug\netcoreapp2.2\codewars-get-middle-character.pdb
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\obj\Debug\netcoreapp2.2\codewars-get-middle-character.dll
+C:\Users\Blazej\Documents\C#\codewars-get-middle-character\obj\Debug\netcoreapp2.2\codewars-get-middle-character.pdb

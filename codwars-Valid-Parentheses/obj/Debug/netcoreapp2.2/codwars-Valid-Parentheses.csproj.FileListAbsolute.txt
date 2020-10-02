@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\obj\Debug\netcoreapp2.2\codwars-Valid-Parentheses.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\obj\Debug\netcoreapp2.2\codwars-Valid-Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\obj\Debug\netcoreapp2.2\codwars-Valid-Parentheses.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\obj\Debug\netcoreapp2.2\codwars-Valid-Parentheses.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\bin\Debug\netcoreapp2.2\codwars-Valid-Parentheses.deps.json
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\bin\Debug\netcoreapp2.2\codwars-Valid-Parentheses.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\bin\Debug\netcoreapp2.2\codwars-Valid-Parentheses.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\bin\Debug\netcoreapp2.2\codwars-Valid-Parentheses.dll
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\bin\Debug\netcoreapp2.2\codwars-Valid-Parentheses.pdb
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\obj\Debug\netcoreapp2.2\codwars-Valid-Parentheses.dll
+C:\Users\Blazej\Documents\C#\codwars-Valid-Parentheses\obj\Debug\netcoreapp2.2\codwars-Valid-Parentheses.pdb

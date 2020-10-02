@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\rot13\bin\Debug\netcoreapp2.2\rot13.deps.json
+C:\Users\Blazej\Documents\C#\codewars\rot13\bin\Debug\netcoreapp2.2\rot13.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\rot13\bin\Debug\netcoreapp2.2\rot13.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\rot13\bin\Debug\netcoreapp2.2\rot13.dll
+C:\Users\Blazej\Documents\C#\codewars\rot13\bin\Debug\netcoreapp2.2\rot13.pdb
+C:\Users\Blazej\Documents\C#\codewars\rot13\obj\Debug\netcoreapp2.2\rot13.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\rot13\obj\Debug\netcoreapp2.2\rot13.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\rot13\obj\Debug\netcoreapp2.2\rot13.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\rot13\obj\Debug\netcoreapp2.2\rot13.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\rot13\obj\Debug\netcoreapp2.2\rot13.dll
+C:\Users\Blazej\Documents\C#\codewars\rot13\obj\Debug\netcoreapp2.2\rot13.pdb

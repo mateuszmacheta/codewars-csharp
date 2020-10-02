@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars-sandbox\bin\Debug\netcoreapp2.2\codewars-sandbox.deps.json
+C:\Users\Blazej\Documents\C#\codewars-sandbox\bin\Debug\netcoreapp2.2\codewars-sandbox.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars-sandbox\bin\Debug\netcoreapp2.2\codewars-sandbox.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars-sandbox\bin\Debug\netcoreapp2.2\codewars-sandbox.dll
+C:\Users\Blazej\Documents\C#\codewars-sandbox\bin\Debug\netcoreapp2.2\codewars-sandbox.pdb
+C:\Users\Blazej\Documents\C#\codewars-sandbox\obj\Debug\netcoreapp2.2\codewars-sandbox.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars-sandbox\obj\Debug\netcoreapp2.2\codewars-sandbox.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars-sandbox\obj\Debug\netcoreapp2.2\codewars-sandbox.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars-sandbox\obj\Debug\netcoreapp2.2\codewars-sandbox.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars-sandbox\obj\Debug\netcoreapp2.2\codewars-sandbox.dll
+C:\Users\Blazej\Documents\C#\codewars-sandbox\obj\Debug\netcoreapp2.2\codewars-sandbox.pdb

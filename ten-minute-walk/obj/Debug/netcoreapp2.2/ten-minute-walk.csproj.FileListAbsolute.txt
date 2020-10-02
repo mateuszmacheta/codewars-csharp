@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\bin\Debug\netcoreapp2.2\ten-minute-walk.deps.json
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\bin\Debug\netcoreapp2.2\ten-minute-walk.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\bin\Debug\netcoreapp2.2\ten-minute-walk.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\bin\Debug\netcoreapp2.2\ten-minute-walk.dll
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\bin\Debug\netcoreapp2.2\ten-minute-walk.pdb
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\obj\Debug\netcoreapp2.2\ten-minute-walk.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\obj\Debug\netcoreapp2.2\ten-minute-walk.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\obj\Debug\netcoreapp2.2\ten-minute-walk.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\obj\Debug\netcoreapp2.2\ten-minute-walk.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\obj\Debug\netcoreapp2.2\ten-minute-walk.dll
+C:\Users\Blazej\Documents\C#\codewars\ten-minute-walk\obj\Debug\netcoreapp2.2\ten-minute-walk.pdb
