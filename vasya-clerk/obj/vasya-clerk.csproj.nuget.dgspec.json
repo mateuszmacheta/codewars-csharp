@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blazej\\Documents\\C#\\codewars\\sandbox\\codewars-sandbox.csproj": {}
+    "C:\\Users\\Blazej\\Documents\\C#\\codewars\\vasya-clerk\\vasya-clerk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blazej\\Documents\\C#\\codewars\\sandbox\\codewars-sandbox.csproj": {
+    "C:\\Users\\Blazej\\Documents\\C#\\codewars\\vasya-clerk\\vasya-clerk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blazej\\Documents\\C#\\codewars\\sandbox\\codewars-sandbox.csproj",
-        "projectName": "codewars-sandbox",
-        "projectPath": "C:\\Users\\Blazej\\Documents\\C#\\codewars\\sandbox\\codewars-sandbox.csproj",
+        "projectUniqueName": "C:\\Users\\Blazej\\Documents\\C#\\codewars\\vasya-clerk\\vasya-clerk.csproj",
+        "projectName": "vasya-clerk",
+        "projectPath": "C:\\Users\\Blazej\\Documents\\C#\\codewars\\vasya-clerk\\vasya-clerk.csproj",
         "packagesPath": "C:\\Users\\Blazej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blazej\\Documents\\C#\\codewars\\sandbox\\obj\\",
+        "outputPath": "C:\\Users\\Blazej\\Documents\\C#\\codewars\\vasya-clerk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
