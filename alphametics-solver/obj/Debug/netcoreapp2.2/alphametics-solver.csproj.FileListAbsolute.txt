@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\bin\Debug\netcoreapp2.2\alphametics-solver.deps.json
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\bin\Debug\netcoreapp2.2\alphametics-solver.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\bin\Debug\netcoreapp2.2\alphametics-solver.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\bin\Debug\netcoreapp2.2\alphametics-solver.dll
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\bin\Debug\netcoreapp2.2\alphametics-solver.pdb
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\obj\Debug\netcoreapp2.2\alphametics-solver.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\obj\Debug\netcoreapp2.2\alphametics-solver.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\obj\Debug\netcoreapp2.2\alphametics-solver.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\obj\Debug\netcoreapp2.2\alphametics-solver.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\obj\Debug\netcoreapp2.2\alphametics-solver.dll
+C:\Users\Blazej\Documents\C#\codewars\alphametics-solver\obj\Debug\netcoreapp2.2\alphametics-solver.pdb
