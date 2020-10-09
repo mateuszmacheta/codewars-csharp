@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\alphametics-solver\\alphametics-solver.csproj": {}
+    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pony-express\\pony-express.csproj": {}
   },
   "projects": {
-    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\alphametics-solver\\alphametics-solver.csproj": {
+    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pony-express\\pony-express.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\alphametics-solver\\alphametics-solver.csproj",
-        "projectName": "alphametics-solver",
-        "projectPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\alphametics-solver\\alphametics-solver.csproj",
+        "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pony-express\\pony-express.csproj",
+        "projectName": "pony-express",
+        "projectPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pony-express\\pony-express.csproj",
         "packagesPath": "C:\\Users\\machetam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\alphametics-solver\\obj\\",
+        "outputPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pony-express\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -20,7 +20,7 @@
           "C:\\Users\\machetam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Users\\machetam\\Documents\\Git\\rpa_coe\\UiPathActivities\\Nuget": {},
@@ -28,7 +28,7 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -39,15 +39,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
-          "dependencies": {
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
-            }
-          },
+        "netcoreapp3.1": {
           "imports": [
             "net461",
             "net462",
@@ -58,6 +50,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }

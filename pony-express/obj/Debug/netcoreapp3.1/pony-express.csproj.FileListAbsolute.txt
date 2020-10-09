@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\bin\Debug\netcoreapp3.1\pony-express.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\bin\Debug\netcoreapp3.1\pony-express.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\bin\Debug\netcoreapp3.1\pony-express.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\bin\Debug\netcoreapp3.1\pony-express.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\bin\Debug\netcoreapp3.1\pony-express.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\bin\Debug\netcoreapp3.1\pony-express.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\obj\Debug\netcoreapp3.1\pony-express.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\obj\Debug\netcoreapp3.1\pony-express.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\obj\Debug\netcoreapp3.1\pony-express.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\obj\Debug\netcoreapp3.1\pony-express.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\obj\Debug\netcoreapp3.1\pony-express.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\obj\Debug\netcoreapp3.1\pony-express.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\pony-express\obj\Debug\netcoreapp3.1\pony-express.genruntimeconfig.cache

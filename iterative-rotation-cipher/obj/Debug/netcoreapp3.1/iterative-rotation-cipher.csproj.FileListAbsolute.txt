@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\bin\Debug\netcoreapp3.1\iterative-rotation-cipher.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\bin\Debug\netcoreapp3.1\iterative-rotation-cipher.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\bin\Debug\netcoreapp3.1\iterative-rotation-cipher.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\bin\Debug\netcoreapp3.1\iterative-rotation-cipher.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\bin\Debug\netcoreapp3.1\iterative-rotation-cipher.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\bin\Debug\netcoreapp3.1\iterative-rotation-cipher.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\obj\Debug\netcoreapp3.1\iterative-rotation-cipher.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\obj\Debug\netcoreapp3.1\iterative-rotation-cipher.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\obj\Debug\netcoreapp3.1\iterative-rotation-cipher.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\obj\Debug\netcoreapp3.1\iterative-rotation-cipher.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\obj\Debug\netcoreapp3.1\iterative-rotation-cipher.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\obj\Debug\netcoreapp3.1\iterative-rotation-cipher.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\iterative-rotation-cipher\obj\Debug\netcoreapp3.1\iterative-rotation-cipher.genruntimeconfig.cache
