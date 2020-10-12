@@ -1,33 +1,29 @@
 ﻿using System;
-using System.Linq;
 
 namespace codewars_sandbox
 {
     class Program
     {
-        public static bool isTriangleNumber(long x)
-        {
-            if (x == 0 || x == 1) { return true; }
+        // public static int[] SortArray(int[] array)
+        // {
+        //     if (array.Length == 0) { return array; }
+        //     var odds = new List<int>();
+        //     odds = array.Where(i => i % 2 == 1).OrderBy(i => i).ToList();
+        //     int j = 0;
+        //     for (int i = 0; i < array.Length; i++)
+        //     {
+        //         if (array[i] % 2 == 1)
+        //         {
+        //             array[i] = odds[j++];
+        //         }
+        //     }
+        //     return array;
+        // }
 
-            // need to find solution of this equation: n^2 + n -2x = 0
-            // and the solution has to be a whole number
-            // notice that there is only one positive solution, so we ignore the second one
-            // the solution we search for is n_1 = [-1 - (1+8x)^1/2]/2 where 1+8x is our delta
-
-            // let's check if root delta is a whole number
-            long delta = 1 + 8 * x;
-            double deltaSqrt = Math.Sqrt(delta);
-
-            if (!(deltaSqrt % 1 == 0)) { return false; }
-
-            // now we check if n_1 is a whole number
-            return ((-1 - (long)deltaSqrt) / 2 % 1 == 0);
-
-        }
         static void Main(string[] args)
         {
-
-            System.Console.WriteLine(isTriangleNumber(125250));
+            string name = "donald";
+            System.Console.WriteLine(char.ToLower(name[0]) == 'r' ? name + " plays banjo" : name + " does not play banjo");
         }
     }
 }

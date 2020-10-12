@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\bin\Debug\netcoreapp3.1\range-extraction.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\bin\Debug\netcoreapp3.1\range-extraction.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\bin\Debug\netcoreapp3.1\range-extraction.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\bin\Debug\netcoreapp3.1\range-extraction.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\bin\Debug\netcoreapp3.1\range-extraction.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\bin\Debug\netcoreapp3.1\range-extraction.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\obj\Debug\netcoreapp3.1\range-extraction.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\obj\Debug\netcoreapp3.1\range-extraction.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\obj\Debug\netcoreapp3.1\range-extraction.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\obj\Debug\netcoreapp3.1\range-extraction.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\obj\Debug\netcoreapp3.1\range-extraction.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\obj\Debug\netcoreapp3.1\range-extraction.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\range-extraction\obj\Debug\netcoreapp3.1\range-extraction.genruntimeconfig.cache

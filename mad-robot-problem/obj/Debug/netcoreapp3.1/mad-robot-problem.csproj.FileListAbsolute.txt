@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\bin\Debug\netcoreapp3.1\mad-robot-problem.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\bin\Debug\netcoreapp3.1\mad-robot-problem.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\bin\Debug\netcoreapp3.1\mad-robot-problem.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\bin\Debug\netcoreapp3.1\mad-robot-problem.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\bin\Debug\netcoreapp3.1\mad-robot-problem.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\bin\Debug\netcoreapp3.1\mad-robot-problem.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\obj\Debug\netcoreapp3.1\mad-robot-problem.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\obj\Debug\netcoreapp3.1\mad-robot-problem.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\obj\Debug\netcoreapp3.1\mad-robot-problem.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\obj\Debug\netcoreapp3.1\mad-robot-problem.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\obj\Debug\netcoreapp3.1\mad-robot-problem.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\obj\Debug\netcoreapp3.1\mad-robot-problem.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\mad-robot-problem\obj\Debug\netcoreapp3.1\mad-robot-problem.genruntimeconfig.cache
