@@ -59,7 +59,7 @@ namespace permutations
 
         static void Main(string[] args)
         {
-            var test = "nbzf";
+            var test = "358";
             //System.Console.WriteLine(swap(test, 1, 3));
             var output = SinglePermutations(test);
             System.Console.WriteLine(string.Join("\n", output.OrderBy(x => x)));

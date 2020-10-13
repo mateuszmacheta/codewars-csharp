@@ -9,3 +9,14 @@ C:\Users\machetam\Documents\_old\Csharp\permutations\bin\Debug\netcoreapp2.2\per
 C:\Users\machetam\Documents\_old\Csharp\permutations\bin\Debug\netcoreapp2.2\permutations.pdb
 C:\Users\machetam\Documents\_old\Csharp\permutations\obj\Debug\netcoreapp2.2\permutations.dll
 C:\Users\machetam\Documents\_old\Csharp\permutations\obj\Debug\netcoreapp2.2\permutations.pdb
+C:\Users\Blazej\Documents\C#\codewars\permutations\bin\Debug\netcoreapp2.2\permutations.deps.json
+C:\Users\Blazej\Documents\C#\codewars\permutations\bin\Debug\netcoreapp2.2\permutations.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\permutations\bin\Debug\netcoreapp2.2\permutations.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\permutations\bin\Debug\netcoreapp2.2\permutations.dll
+C:\Users\Blazej\Documents\C#\codewars\permutations\bin\Debug\netcoreapp2.2\permutations.pdb
+C:\Users\Blazej\Documents\C#\codewars\permutations\obj\Debug\netcoreapp2.2\permutations.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\permutations\obj\Debug\netcoreapp2.2\permutations.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\permutations\obj\Debug\netcoreapp2.2\permutations.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\permutations\obj\Debug\netcoreapp2.2\permutations.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\permutations\obj\Debug\netcoreapp2.2\permutations.dll
+C:\Users\Blazej\Documents\C#\codewars\permutations\obj\Debug\netcoreapp2.2\permutations.pdb

@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\bin\Debug\netcoreapp2.2\weird-hex-parsing.deps.json
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\bin\Debug\netcoreapp2.2\weird-hex-parsing.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\bin\Debug\netcoreapp2.2\weird-hex-parsing.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\bin\Debug\netcoreapp2.2\weird-hex-parsing.dll
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\bin\Debug\netcoreapp2.2\weird-hex-parsing.pdb
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\obj\Debug\netcoreapp2.2\weird-hex-parsing.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\obj\Debug\netcoreapp2.2\weird-hex-parsing.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\obj\Debug\netcoreapp2.2\weird-hex-parsing.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\obj\Debug\netcoreapp2.2\weird-hex-parsing.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\obj\Debug\netcoreapp2.2\weird-hex-parsing.dll
+C:\Users\Blazej\Documents\C#\codewars\weird-hex-parsing\obj\Debug\netcoreapp2.2\weird-hex-parsing.pdb

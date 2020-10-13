@@ -1,0 +1,11 @@
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\obj\Debug\netcoreapp2.2\simple-eviternity-numbers.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\obj\Debug\netcoreapp2.2\simple-eviternity-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\obj\Debug\netcoreapp2.2\simple-eviternity-numbers.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\obj\Debug\netcoreapp2.2\simple-eviternity-numbers.AssemblyInfo.cs
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\bin\Debug\netcoreapp2.2\simple-eviternity-numbers.deps.json
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\bin\Debug\netcoreapp2.2\simple-eviternity-numbers.runtimeconfig.json
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\bin\Debug\netcoreapp2.2\simple-eviternity-numbers.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\bin\Debug\netcoreapp2.2\simple-eviternity-numbers.dll
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\bin\Debug\netcoreapp2.2\simple-eviternity-numbers.pdb
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\obj\Debug\netcoreapp2.2\simple-eviternity-numbers.dll
+C:\Users\Blazej\Documents\C#\codewars\simple-eviternity-numbers\obj\Debug\netcoreapp2.2\simple-eviternity-numbers.pdb
