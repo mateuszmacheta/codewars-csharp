@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\obj\Debug\netcoreapp3.1\interlaced-spiral-cipher.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\obj\Debug\netcoreapp3.1\interlaced-spiral-cipher.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\obj\Debug\netcoreapp3.1\interlaced-spiral-cipher.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\obj\Debug\netcoreapp3.1\interlaced-spiral-cipher.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\bin\Debug\netcoreapp3.1\interlaced-spiral-cipher.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\bin\Debug\netcoreapp3.1\interlaced-spiral-cipher.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\bin\Debug\netcoreapp3.1\interlaced-spiral-cipher.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\bin\Debug\netcoreapp3.1\interlaced-spiral-cipher.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\bin\Debug\netcoreapp3.1\interlaced-spiral-cipher.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\bin\Debug\netcoreapp3.1\interlaced-spiral-cipher.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\obj\Debug\netcoreapp3.1\interlaced-spiral-cipher.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\obj\Debug\netcoreapp3.1\interlaced-spiral-cipher.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\interlaced-spiral-cipher\obj\Debug\netcoreapp3.1\interlaced-spiral-cipher.genruntimeconfig.cache

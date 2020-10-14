@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\bin\Debug\netcoreapp3.1\sum-by-factors.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\bin\Debug\netcoreapp3.1\sum-by-factors.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\bin\Debug\netcoreapp3.1\sum-by-factors.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\bin\Debug\netcoreapp3.1\sum-by-factors.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\bin\Debug\netcoreapp3.1\sum-by-factors.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\bin\Debug\netcoreapp3.1\sum-by-factors.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\obj\Debug\netcoreapp3.1\sum-by-factors.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\obj\Debug\netcoreapp3.1\sum-by-factors.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\obj\Debug\netcoreapp3.1\sum-by-factors.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\obj\Debug\netcoreapp3.1\sum-by-factors.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\obj\Debug\netcoreapp3.1\sum-by-factors.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\obj\Debug\netcoreapp3.1\sum-by-factors.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\sum-by-factors\obj\Debug\netcoreapp3.1\sum-by-factors.genruntimeconfig.cache
