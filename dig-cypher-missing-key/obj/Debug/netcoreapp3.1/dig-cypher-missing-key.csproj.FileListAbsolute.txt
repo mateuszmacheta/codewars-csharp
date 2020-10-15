@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\bin\Debug\netcoreapp3.1\dig-cypher-missing-key.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\bin\Debug\netcoreapp3.1\dig-cypher-missing-key.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\bin\Debug\netcoreapp3.1\dig-cypher-missing-key.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\bin\Debug\netcoreapp3.1\dig-cypher-missing-key.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\bin\Debug\netcoreapp3.1\dig-cypher-missing-key.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\bin\Debug\netcoreapp3.1\dig-cypher-missing-key.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\obj\Debug\netcoreapp3.1\dig-cypher-missing-key.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\obj\Debug\netcoreapp3.1\dig-cypher-missing-key.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\obj\Debug\netcoreapp3.1\dig-cypher-missing-key.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\obj\Debug\netcoreapp3.1\dig-cypher-missing-key.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\obj\Debug\netcoreapp3.1\dig-cypher-missing-key.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\obj\Debug\netcoreapp3.1\dig-cypher-missing-key.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\dig-cypher-missing-key\obj\Debug\netcoreapp3.1\dig-cypher-missing-key.genruntimeconfig.cache
