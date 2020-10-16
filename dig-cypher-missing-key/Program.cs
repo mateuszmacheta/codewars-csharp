@@ -7,17 +7,28 @@ namespace dig_cypher_missing_key
     {
         public static int FindTheKey(string message, int[] code)
         {
-            int[] original = message.Select(c => c - 96).ToArray();
-            int[] key = code.Select((e, i) => e - original[i]).ToArray();
+            // calculate missing key
+            int[] key = code.Select((c, i) => c - message[i] + 96).ToArray();
+
+            // search for smallest period key
+            bool even = true;
             for (int i = key.Distinct().Count(); i < key.Count(); i++)
             {
-
+                even = true;
+                for (int j = 0; j < key.Count(); j++)
+                {
+                    var everyIthItem = key.Where((c, ind) => (ind - j) % i == 0);
+                    even = everyIthItem.Aggregate(true, (s, c) => s && c == everyIthItem.First());
+                    if (!even) { break; }
+                }
+                if (even) { return Int32.Parse(string.Concat(key.Take(i))); }
             }
-            return key.Count();
+            // if not found they the full key length is the period
+            return Int32.Parse(string.Concat(key));
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(FindTheKey("scout", new int[] { 20, 12, 18, 30, 21 }));
+            Console.WriteLine(FindTheKey("np", new int[] { 18, 23 }));
         }
     }
 }

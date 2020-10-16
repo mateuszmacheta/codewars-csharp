@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v2.2",
+    "name": ".NETCoreApp,Version=v3.1",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v2.2": {
-      "codewars-sandbox/1.0.0": {
+    ".NETCoreApp,Version=v3.1": {
+      "simple-number-divisibility/1.0.0": {
         "runtime": {
-          "codewars-sandbox.dll": {}
+          "simple-number-divisibility.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "codewars-sandbox/1.0.0": {
+    "simple-number-divisibility/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

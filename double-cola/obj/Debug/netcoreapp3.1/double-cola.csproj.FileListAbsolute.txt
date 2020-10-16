@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\bin\Debug\netcoreapp3.1\double-cola.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\bin\Debug\netcoreapp3.1\double-cola.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\bin\Debug\netcoreapp3.1\double-cola.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\bin\Debug\netcoreapp3.1\double-cola.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\bin\Debug\netcoreapp3.1\double-cola.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\bin\Debug\netcoreapp3.1\double-cola.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\obj\Debug\netcoreapp3.1\double-cola.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\obj\Debug\netcoreapp3.1\double-cola.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\obj\Debug\netcoreapp3.1\double-cola.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\obj\Debug\netcoreapp3.1\double-cola.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\obj\Debug\netcoreapp3.1\double-cola.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\obj\Debug\netcoreapp3.1\double-cola.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\double-cola\obj\Debug\netcoreapp3.1\double-cola.genruntimeconfig.cache

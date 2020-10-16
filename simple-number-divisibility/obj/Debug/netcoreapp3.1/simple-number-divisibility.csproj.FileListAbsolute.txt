@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\bin\Debug\netcoreapp3.1\simple-number-divisibility.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\bin\Debug\netcoreapp3.1\simple-number-divisibility.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\bin\Debug\netcoreapp3.1\simple-number-divisibility.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\bin\Debug\netcoreapp3.1\simple-number-divisibility.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\bin\Debug\netcoreapp3.1\simple-number-divisibility.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\bin\Debug\netcoreapp3.1\simple-number-divisibility.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\obj\Debug\netcoreapp3.1\simple-number-divisibility.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\obj\Debug\netcoreapp3.1\simple-number-divisibility.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\obj\Debug\netcoreapp3.1\simple-number-divisibility.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\obj\Debug\netcoreapp3.1\simple-number-divisibility.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\obj\Debug\netcoreapp3.1\simple-number-divisibility.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\obj\Debug\netcoreapp3.1\simple-number-divisibility.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-number-divisibility\obj\Debug\netcoreapp3.1\simple-number-divisibility.genruntimeconfig.cache
