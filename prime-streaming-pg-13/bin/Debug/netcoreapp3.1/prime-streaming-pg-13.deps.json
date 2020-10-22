@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "prime-streaming-pg-13/1.0.0": {
+        "runtime": {
+          "prime-streaming-pg-13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prime-streaming-pg-13/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
