@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\obj\Debug\netcoreapp3.1\cut-the-ropes.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\obj\Debug\netcoreapp3.1\cut-the-ropes.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\obj\Debug\netcoreapp3.1\cut-the-ropes.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\obj\Debug\netcoreapp3.1\cut-the-ropes.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\bin\Debug\netcoreapp3.1\cut-the-ropes.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\bin\Debug\netcoreapp3.1\cut-the-ropes.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\bin\Debug\netcoreapp3.1\cut-the-ropes.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\bin\Debug\netcoreapp3.1\cut-the-ropes.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\bin\Debug\netcoreapp3.1\cut-the-ropes.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\bin\Debug\netcoreapp3.1\cut-the-ropes.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\obj\Debug\netcoreapp3.1\cut-the-ropes.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\obj\Debug\netcoreapp3.1\cut-the-ropes.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\cut-the-ropes\obj\Debug\netcoreapp3.1\cut-the-ropes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\bin\Debug\netcoreapp3.1\dominant-primes.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\bin\Debug\netcoreapp3.1\dominant-primes.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\bin\Debug\netcoreapp3.1\dominant-primes.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\bin\Debug\netcoreapp3.1\dominant-primes.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\bin\Debug\netcoreapp3.1\dominant-primes.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\bin\Debug\netcoreapp3.1\dominant-primes.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\obj\Debug\netcoreapp3.1\dominant-primes.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\obj\Debug\netcoreapp3.1\dominant-primes.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\obj\Debug\netcoreapp3.1\dominant-primes.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\obj\Debug\netcoreapp3.1\dominant-primes.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\obj\Debug\netcoreapp3.1\dominant-primes.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\obj\Debug\netcoreapp3.1\dominant-primes.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\dominant-primes\obj\Debug\netcoreapp3.1\dominant-primes.genruntimeconfig.cache

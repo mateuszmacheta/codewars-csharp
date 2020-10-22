@@ -6,19 +6,21 @@ namespace double_cola
     {
         public static string WhoIsNext(string[] names, long n)
         {
-            int doubles = (int)Math.Log2(n / names.Length);
-            long remaining = n - (long)Math.Pow(2, doubles) * names.Length;
-            int c = 0;
-            for (int i = 1; i < remaining; i++)
-            {
-                c += i % Math.Pow(2, doubles) == 0 ? 1 : 0;
-                System.Console.WriteLine(c);
-            }
-            return names[c];
+            Console.Write($"n: {n} ");
+            Console.WriteLine(string.Join(',', names).TrimEnd(','));
+            int k = 0;
+            if (n >= names.Length)
+            { k = (int)Math.Log2(n / names.Length + 1); }
+            long remaining = n;
+            if (k > 0)
+            { remaining -= names.Length * (long)Math.Pow(2, k) - names.Length; }
+            int c = (int)Math.Ceiling(remaining / Math.Pow(2, k));
+            return names[c - 1];
         }
+
         static void Main(string[] args)
         {
-            Console.WriteLine(WhoIsNext(new string[] { "Sheldon", "Leonard", "Penny", "Rajesh", "Howard" }, 6));
+            Console.WriteLine(WhoIsNext(new string[] { "Sheldon", "Leonard", "Penny", "Rajesh", "Howard" }, 8));
         }
     }
 }

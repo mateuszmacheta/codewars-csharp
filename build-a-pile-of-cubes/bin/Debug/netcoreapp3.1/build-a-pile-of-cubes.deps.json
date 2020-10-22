@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "build-a-pile-of-cubes/1.0.0": {
+        "runtime": {
+          "build-a-pile-of-cubes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "build-a-pile-of-cubes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

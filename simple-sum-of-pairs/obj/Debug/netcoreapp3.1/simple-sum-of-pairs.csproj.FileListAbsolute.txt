@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\bin\Debug\netcoreapp3.1\simple-sum-of-pairs.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\bin\Debug\netcoreapp3.1\simple-sum-of-pairs.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\bin\Debug\netcoreapp3.1\simple-sum-of-pairs.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\bin\Debug\netcoreapp3.1\simple-sum-of-pairs.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\bin\Debug\netcoreapp3.1\simple-sum-of-pairs.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\bin\Debug\netcoreapp3.1\simple-sum-of-pairs.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\obj\Debug\netcoreapp3.1\simple-sum-of-pairs.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\obj\Debug\netcoreapp3.1\simple-sum-of-pairs.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\obj\Debug\netcoreapp3.1\simple-sum-of-pairs.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\obj\Debug\netcoreapp3.1\simple-sum-of-pairs.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\obj\Debug\netcoreapp3.1\simple-sum-of-pairs.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\obj\Debug\netcoreapp3.1\simple-sum-of-pairs.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\simple-sum-of-pairs\obj\Debug\netcoreapp3.1\simple-sum-of-pairs.genruntimeconfig.cache

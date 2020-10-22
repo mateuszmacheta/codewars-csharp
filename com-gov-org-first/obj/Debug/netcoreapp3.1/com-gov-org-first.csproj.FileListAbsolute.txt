@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\obj\Debug\netcoreapp3.1\com-gov-org-first.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\obj\Debug\netcoreapp3.1\com-gov-org-first.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\obj\Debug\netcoreapp3.1\com-gov-org-first.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\obj\Debug\netcoreapp3.1\com-gov-org-first.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\bin\Debug\netcoreapp3.1\com-gov-org-first.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\bin\Debug\netcoreapp3.1\com-gov-org-first.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\bin\Debug\netcoreapp3.1\com-gov-org-first.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\bin\Debug\netcoreapp3.1\com-gov-org-first.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\bin\Debug\netcoreapp3.1\com-gov-org-first.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\bin\Debug\netcoreapp3.1\com-gov-org-first.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\obj\Debug\netcoreapp3.1\com-gov-org-first.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\obj\Debug\netcoreapp3.1\com-gov-org-first.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\com-gov-org-first\obj\Debug\netcoreapp3.1\com-gov-org-first.genruntimeconfig.cache

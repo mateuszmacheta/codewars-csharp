@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\bin\Debug\netcoreapp3.1\build-a-pile-of-cubes.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\bin\Debug\netcoreapp3.1\build-a-pile-of-cubes.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\bin\Debug\netcoreapp3.1\build-a-pile-of-cubes.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\bin\Debug\netcoreapp3.1\build-a-pile-of-cubes.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\bin\Debug\netcoreapp3.1\build-a-pile-of-cubes.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\bin\Debug\netcoreapp3.1\build-a-pile-of-cubes.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\obj\Debug\netcoreapp3.1\build-a-pile-of-cubes.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\obj\Debug\netcoreapp3.1\build-a-pile-of-cubes.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\obj\Debug\netcoreapp3.1\build-a-pile-of-cubes.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\obj\Debug\netcoreapp3.1\build-a-pile-of-cubes.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\obj\Debug\netcoreapp3.1\build-a-pile-of-cubes.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\obj\Debug\netcoreapp3.1\build-a-pile-of-cubes.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\build-a-pile-of-cubes\obj\Debug\netcoreapp3.1\build-a-pile-of-cubes.genruntimeconfig.cache

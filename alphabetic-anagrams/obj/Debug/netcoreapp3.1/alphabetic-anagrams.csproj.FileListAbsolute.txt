@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\bin\Debug\netcoreapp3.1\alphabetic-anagrams.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\bin\Debug\netcoreapp3.1\alphabetic-anagrams.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\bin\Debug\netcoreapp3.1\alphabetic-anagrams.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\bin\Debug\netcoreapp3.1\alphabetic-anagrams.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\bin\Debug\netcoreapp3.1\alphabetic-anagrams.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\bin\Debug\netcoreapp3.1\alphabetic-anagrams.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\obj\Debug\netcoreapp3.1\alphabetic-anagrams.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\obj\Debug\netcoreapp3.1\alphabetic-anagrams.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\obj\Debug\netcoreapp3.1\alphabetic-anagrams.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\obj\Debug\netcoreapp3.1\alphabetic-anagrams.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\obj\Debug\netcoreapp3.1\alphabetic-anagrams.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\obj\Debug\netcoreapp3.1\alphabetic-anagrams.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\alphabetic-anagrams\obj\Debug\netcoreapp3.1\alphabetic-anagrams.genruntimeconfig.cache
