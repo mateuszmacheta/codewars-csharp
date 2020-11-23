@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\bin\Debug\netcoreapp3.1\count-characters-in-string.exe
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\bin\Debug\netcoreapp3.1\count-characters-in-string.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\bin\Debug\netcoreapp3.1\count-characters-in-string.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\bin\Debug\netcoreapp3.1\count-characters-in-string.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\bin\Debug\netcoreapp3.1\count-characters-in-string.dll
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\bin\Debug\netcoreapp3.1\count-characters-in-string.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\obj\Debug\netcoreapp3.1\count-characters-in-string.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\obj\Debug\netcoreapp3.1\count-characters-in-string.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\obj\Debug\netcoreapp3.1\count-characters-in-string.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\obj\Debug\netcoreapp3.1\count-characters-in-string.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\obj\Debug\netcoreapp3.1\count-characters-in-string.dll
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\obj\Debug\netcoreapp3.1\count-characters-in-string.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\count-characters-in-string\obj\Debug\netcoreapp3.1\count-characters-in-string.genruntimeconfig.cache

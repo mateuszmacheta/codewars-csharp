@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>count_characters_in_string</RootNamespace>
   </PropertyGroup>
 
 </Project>

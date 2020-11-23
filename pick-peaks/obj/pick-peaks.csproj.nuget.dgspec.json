@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj": {}
+    "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj": {
+    "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj",
-        "projectName": "sandbox",
-        "projectPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj",
+        "projectUniqueName": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
+        "projectName": "pick-peaks",
+        "projectPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
         "packagesPath": "C:\\Users\\Blazej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\obj\\",
+        "outputPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Blazej\\AppData\\Roaming\\NuGet\\NuGet.Config"

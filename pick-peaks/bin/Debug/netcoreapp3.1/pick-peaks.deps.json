@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pick-peaks/1.0.0": {
+        "runtime": {
+          "pick-peaks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pick-peaks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

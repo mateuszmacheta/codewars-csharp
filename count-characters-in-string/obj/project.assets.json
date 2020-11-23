@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj",
-      "projectName": "sandbox",
-      "projectPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj",
+      "projectUniqueName": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\count-characters-in-string\\count-characters-in-string.csproj",
+      "projectName": "count-characters-in-string",
+      "projectPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\count-characters-in-string\\count-characters-in-string.csproj",
       "packagesPath": "C:\\Users\\Blazej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\obj\\",
+      "outputPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\count-characters-in-string\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Blazej\\AppData\\Roaming\\NuGet\\NuGet.Config"
