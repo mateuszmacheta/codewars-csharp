@@ -1,0 +1,13 @@
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\bin\Debug\netcoreapp3.1\scrambies.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\bin\Debug\netcoreapp3.1\scrambies.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\bin\Debug\netcoreapp3.1\scrambies.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\bin\Debug\netcoreapp3.1\scrambies.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\bin\Debug\netcoreapp3.1\scrambies.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\bin\Debug\netcoreapp3.1\scrambies.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\obj\Debug\netcoreapp3.1\scrambies.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\obj\Debug\netcoreapp3.1\scrambies.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\obj\Debug\netcoreapp3.1\scrambies.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\obj\Debug\netcoreapp3.1\scrambies.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\obj\Debug\netcoreapp3.1\scrambies.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\obj\Debug\netcoreapp3.1\scrambies.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\scrambies\obj\Debug\netcoreapp3.1\scrambies.genruntimeconfig.cache
