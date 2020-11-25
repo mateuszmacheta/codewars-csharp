@@ -22,11 +22,6 @@
         "originalTargetFrameworks": [
           "netcoreapp2.2"
         ],
-        "sources": {
-          "C:\\Users\\machetam\\Documents\\Git\\rpa_coe\\UiPathActivities\\Nuget": {},
-          "http://abgproxya.abg.fsc.net:82": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {}

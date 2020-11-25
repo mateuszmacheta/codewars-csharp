@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "051diUp995DbjcMfnS4IusVArF48wssUur12qbuvygA8TybZtYkOii07cZ6sd2UUO/MYO3z3pP72gjAT5r0Nag==",
+  "dgSpecHash": "b5k4qL2GzA3KCjRbRz5K+GU5ZG3pj/2CNolXYM87cHz5KkkMZSPQ2P9bjONTXqpxiKPfQ1WWM9DZTAlS2RwWcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
+  "projectFilePath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

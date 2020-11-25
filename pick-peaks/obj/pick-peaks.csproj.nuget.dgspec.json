@@ -1,27 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj": {}
+    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj": {
+    "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
+        "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
         "projectName": "pick-peaks",
-        "projectPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
-        "packagesPath": "C:\\Users\\Blazej\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\pick-peaks\\obj\\",
+        "projectPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pick-peaks\\pick-peaks.csproj",
+        "packagesPath": "C:\\Users\\machetam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\pick-peaks\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Blazej\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\machetam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
-        "sources": {
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {}
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

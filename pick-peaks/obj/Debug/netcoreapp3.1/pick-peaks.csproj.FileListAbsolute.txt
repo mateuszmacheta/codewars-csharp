@@ -11,3 +11,16 @@ C:\Users\Blazej\Documents\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pic
 C:\Users\Blazej\Documents\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.dll
 C:\Users\Blazej\Documents\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.pdb
 C:\Users\Blazej\Documents\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.genruntimeconfig.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\bin\Debug\netcoreapp3.1\pick-peaks.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\bin\Debug\netcoreapp3.1\pick-peaks.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\bin\Debug\netcoreapp3.1\pick-peaks.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\bin\Debug\netcoreapp3.1\pick-peaks.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\bin\Debug\netcoreapp3.1\pick-peaks.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\bin\Debug\netcoreapp3.1\pick-peaks.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\pick-peaks\obj\Debug\netcoreapp3.1\pick-peaks.genruntimeconfig.cache
