@@ -9,44 +9,181 @@ namespace tic_tac_toe
         {
             Move[0] = -1; Move[1] = -1;
         }
+
         private int[][] Board = new int[3][];
         private int Player { get; set; }
         private int Opponent { get; set; }
         private int[] Move = new int[2];
-        public int[] TurnMethod(int[][] board, int player)
+        public static int[] TurnMethod(int[][] board, int player)
         {
             Board = board.Clone() as int[][];
             Player = player;
             Opponent = player == 1 ? 2 : 1;
 
-            checkWin();
+            // make winning move
+            checkWin(Player);
 
+            if (Move[0] != -1)
+                return Move;
+
+            // block opponent's winning move
+            checkWin(Opponent);
+
+            if (Move[0] != -1)
+                return Move;
+
+            // check if center empty
+            if (Board[1][1] == 0)
+            {
+                Move[0] = 1;
+                Move[1] = 1;
+                return Move;
+            }
+
+
+            // play corner
+            playCorner();
             if (Move[0] != -1)
                 return Move;
 
             return Move;
         }
 
-        private void checkWin()
+        private void checkWin(int player)
         {
+            int opponent = player == 1 ? 2 : 1;
             int count;
+            int oCount; // opponent's symbols count
 
-            // check rows
+            // -- check rows
             for (int i = 0; i < 3; i++)
             {
-                count = Board[i].Count(e => e == Player);
-                if (count == 2)
+                count = Board[i].Count(e => e == player);
+                oCount = Board[i].Count(e => e == opponent);
+
+                if (count == 2 && oCount == 0)
                 {
-                    Move[1] = i;
                     Move[0] = Array.IndexOf(Board[i], 0);
+                    Move[1] = i;
                     return;
                 }
             }
-            // check columns
+            // -- check columns
             for (int i = 0; i < 3; i++)
             {
-                count = Board.
+                count = 0; oCount = 0;
+                for (int j = 0; j < 3; j++)
+                {
+                    count += (Board[j][i] == player ? 1 : 0);
+                    oCount += (Board[j][i] == opponent ? 1 : 0);
+                }
+
+                if (count == 2 && oCount == 0)
+                {
+                    Move[0] = i;
+                    Move[1] = Array.IndexOf(new int[] { Board[0][i], Board[1][i], Board[2][i] }, 0);
+                    return;
+                }
             }
+            // -- check diagonals
+
+            // first diagonal NW-SE
+            count = 0; oCount = 0;
+            count += Board[0][0] == player ? 1 : 0;
+            count += Board[1][1] == player ? 1 : 0;
+            count += Board[2][2] == player ? 1 : 0;
+
+            oCount += Board[0][0] == opponent ? 1 : 0;
+            oCount += Board[1][1] == opponent ? 1 : 0;
+            oCount += Board[2][2] == opponent ? 1 : 0;
+
+            if (count == 2 && oCount == 0)
+            {
+                Move[0] = Array.IndexOf(new int[] { Board[0][0], Board[1][1], Board[2][2] }, 0);
+                Move[1] = Move[0];
+            }
+
+            // second diagonal NE-SW
+
+            count = 0; oCount = 0;
+            count += Board[0][2] == player ? 1 : 0;
+            count += Board[1][1] == player ? 1 : 0;
+            count += Board[2][0] == player ? 1 : 0;
+
+            oCount += Board[0][2] == opponent ? 1 : 0;
+            oCount += Board[1][1] == opponent ? 1 : 0;
+            oCount += Board[2][0] == opponent ? 1 : 0;
+
+            if (count == 2 && oCount == 0)
+            {
+                Move[1] = Array.IndexOf(new int[] { Board[0][2], Board[1][1], Board[2][0] }, 0);
+                Move[0] = 2 - Move[1];
+            }
+        }
+
+        private void playCorner()
+        {
+            // opposite to opponent
+
+            if (Board[0][0] == Opponent) // NE
+            {
+                Move[0] = 2;
+                Move[1] = 2;
+                return;
+            }
+
+            if (Board[0][2] == Opponent) // NW
+            {
+                Move[0] = 0;
+                Move[1] = 2;
+                return;
+            }
+
+            if (Board[2][0] == Opponent) // SW
+            {
+                Move[0] = 2;
+                Move[1] = 0;
+                return;
+            }
+
+            if (Board[2][2] == Opponent) // SE
+            {
+                Move[0] = 0;
+                Move[1] = 0;
+                return;
+            }
+
+            // first empty
+
+            if (Board[0][0] == 0) // NE
+            {
+                Move[0] = 0;
+                Move[1] = 0;
+                return;
+            }
+
+            if (Board[0][2] == 0) // NW
+            {
+                Move[0] = 2;
+                Move[1] = 0;
+                return;
+            }
+
+            if (Board[2][0] == 0) // SW
+            {
+                Move[0] = 0;
+                Move[1] = 2;
+                return;
+            }
+
+            if (Board[2][2] == 0) // SE
+            {
+                Move[0] = 2;
+                Move[1] = 2;
+                return;
+            }
+
+
         }
 
     }
@@ -59,7 +196,7 @@ namespace tic_tac_toe
             {
                 foreach (var item in row)
                 {
-                    Console.Write(item + ' ');
+                    Console.Write(item.ToString() + ' ');
                 }
                 System.Console.WriteLine();
             }
@@ -73,9 +210,9 @@ namespace tic_tac_toe
             var solver = new TTTSolver();
             var state = new int[][]
             {
-                new int[] { 1, 0, 1 },
-                new int[] { 0, 0, 0 },
-                new int[] { 1, 0, 1 }
+                new int[] { 0, 0, 2 },
+                new int[] { 0, 1, 0 },
+                new int[] { 0, 0, 0 }
             };
             Print2D.PrintArr(state);
             Console.WriteLine(string.Join(',', solver.TurnMethod(state, 1)));
