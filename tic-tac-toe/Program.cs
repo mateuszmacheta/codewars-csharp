@@ -10,10 +10,10 @@ namespace tic_tac_toe
             Move[0] = -1; Move[1] = -1;
         }
 
-        private int[][] Board = new int[3][];
-        private int Player { get; set; }
-        private int Opponent { get; set; }
-        private int[] Move = new int[2];
+        private static int[][] Board = new int[3][];
+        private static int Player { get; set; }
+        private static int Opponent { get; set; }
+        private static int[] Move = new int[2];
         public static int[] TurnMethod(int[][] board, int player)
         {
             Board = board.Clone() as int[][];
@@ -49,7 +49,7 @@ namespace tic_tac_toe
             return Move;
         }
 
-        private void checkWin(int player)
+        private static void checkWin(int player)
         {
             int opponent = player == 1 ? 2 : 1;
             int count;
@@ -121,7 +121,7 @@ namespace tic_tac_toe
             }
         }
 
-        private void playCorner()
+        private static void playCorner()
         {
             // opposite to opponent
 
@@ -207,15 +207,15 @@ namespace tic_tac_toe
     {
         static void Main(string[] args)
         {
-            var solver = new TTTSolver();
+            //var solver = new TTTSolver();
             var state = new int[][]
             {
-                new int[] { 0, 0, 2 },
-                new int[] { 0, 1, 0 },
-                new int[] { 0, 0, 0 }
+        new int[] { 0, 2, 1 },
+        new int[] { 1, 2, 2 },
+        new int[] { 2, 1, 1 }
             };
             Print2D.PrintArr(state);
-            Console.WriteLine(string.Join(',', solver.TurnMethod(state, 1)));
+            Console.WriteLine(string.Join(',', TTTSolver.TurnMethod(state, 1)));
         }
     }
 }
