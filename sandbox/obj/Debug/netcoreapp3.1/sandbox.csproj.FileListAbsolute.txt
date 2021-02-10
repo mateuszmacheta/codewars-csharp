@@ -11,3 +11,16 @@ C:\Users\Blazej\Documents\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbo
 C:\Users\Blazej\Documents\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.dll
 C:\Users\Blazej\Documents\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.pdb
 C:\Users\Blazej\Documents\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.genruntimeconfig.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.csprojAssemblyReference.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.AssemblyInfoInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.AssemblyInfo.cs
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\bin\Debug\netcoreapp3.1\sandbox.exe
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\bin\Debug\netcoreapp3.1\sandbox.deps.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\bin\Debug\netcoreapp3.1\sandbox.runtimeconfig.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\bin\Debug\netcoreapp3.1\sandbox.runtimeconfig.dev.json
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\bin\Debug\netcoreapp3.1\sandbox.dll
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\bin\Debug\netcoreapp3.1\sandbox.pdb
+C:\Users\machetam\Documents\_old\Csharp\codewars\sandbox\obj\Debug\netcoreapp3.1\sandbox.genruntimeconfig.cache
