@@ -8,34 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\machetam\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Blazej\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\sandbox\\sandbox.csproj",
+      "projectUniqueName": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj",
       "projectName": "sandbox",
-      "projectPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\sandbox\\sandbox.csproj",
-      "packagesPath": "C:\\Users\\machetam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\sandbox\\obj\\",
+      "projectPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj",
+      "packagesPath": "C:\\Users\\Blazej\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\machetam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Blazej\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -47,7 +41,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -63,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

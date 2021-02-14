@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\bin\Debug\netcoreapp3.1\roman-numerals.exe
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\bin\Debug\netcoreapp3.1\roman-numerals.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\bin\Debug\netcoreapp3.1\roman-numerals.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\bin\Debug\netcoreapp3.1\roman-numerals.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\bin\Debug\netcoreapp3.1\roman-numerals.dll
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\bin\Debug\netcoreapp3.1\roman-numerals.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\obj\Debug\netcoreapp3.1\roman-numerals.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\obj\Debug\netcoreapp3.1\roman-numerals.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\obj\Debug\netcoreapp3.1\roman-numerals.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\obj\Debug\netcoreapp3.1\roman-numerals.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\obj\Debug\netcoreapp3.1\roman-numerals.dll
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\obj\Debug\netcoreapp3.1\roman-numerals.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals\obj\Debug\netcoreapp3.1\roman-numerals.genruntimeconfig.cache

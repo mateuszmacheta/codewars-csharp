@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\bin\Debug\netcoreapp3.1\did-you-mean.exe
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\bin\Debug\netcoreapp3.1\did-you-mean.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\bin\Debug\netcoreapp3.1\did-you-mean.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\bin\Debug\netcoreapp3.1\did-you-mean.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\bin\Debug\netcoreapp3.1\did-you-mean.dll
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\bin\Debug\netcoreapp3.1\did-you-mean.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\obj\Debug\netcoreapp3.1\did-you-mean.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\obj\Debug\netcoreapp3.1\did-you-mean.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\obj\Debug\netcoreapp3.1\did-you-mean.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\obj\Debug\netcoreapp3.1\did-you-mean.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\obj\Debug\netcoreapp3.1\did-you-mean.dll
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\obj\Debug\netcoreapp3.1\did-you-mean.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\did-you-mean\obj\Debug\netcoreapp3.1\did-you-mean.genruntimeconfig.cache
