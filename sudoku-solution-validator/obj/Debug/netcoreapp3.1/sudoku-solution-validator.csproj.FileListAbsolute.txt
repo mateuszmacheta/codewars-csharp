@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\obj\Debug\netcoreapp3.1\sudoku-solution-validator.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\obj\Debug\netcoreapp3.1\sudoku-solution-validator.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\obj\Debug\netcoreapp3.1\sudoku-solution-validator.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\obj\Debug\netcoreapp3.1\sudoku-solution-validator.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\bin\Debug\netcoreapp3.1\sudoku-solution-validator.exe
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\bin\Debug\netcoreapp3.1\sudoku-solution-validator.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\bin\Debug\netcoreapp3.1\sudoku-solution-validator.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\bin\Debug\netcoreapp3.1\sudoku-solution-validator.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\bin\Debug\netcoreapp3.1\sudoku-solution-validator.dll
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\bin\Debug\netcoreapp3.1\sudoku-solution-validator.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\obj\Debug\netcoreapp3.1\sudoku-solution-validator.dll
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\obj\Debug\netcoreapp3.1\sudoku-solution-validator.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\sudoku-solution-validator\obj\Debug\netcoreapp3.1\sudoku-solution-validator.genruntimeconfig.cache
