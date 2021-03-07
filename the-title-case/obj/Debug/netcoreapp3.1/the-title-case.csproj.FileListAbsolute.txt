@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\bin\Debug\netcoreapp3.1\the-title-case.exe
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\bin\Debug\netcoreapp3.1\the-title-case.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\bin\Debug\netcoreapp3.1\the-title-case.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\bin\Debug\netcoreapp3.1\the-title-case.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\bin\Debug\netcoreapp3.1\the-title-case.dll
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\bin\Debug\netcoreapp3.1\the-title-case.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\obj\Debug\netcoreapp3.1\the-title-case.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\obj\Debug\netcoreapp3.1\the-title-case.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\obj\Debug\netcoreapp3.1\the-title-case.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\obj\Debug\netcoreapp3.1\the-title-case.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\obj\Debug\netcoreapp3.1\the-title-case.dll
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\obj\Debug\netcoreapp3.1\the-title-case.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\the-title-case\obj\Debug\netcoreapp3.1\the-title-case.genruntimeconfig.cache

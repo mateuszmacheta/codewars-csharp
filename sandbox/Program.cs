@@ -1,34 +1,35 @@
 ﻿using System;
-using System.Text;
+using System.Linq;
 
-public class Kata
+namespace sandbox
 {
-  public static string ToWeirdCase(string s)
-  {
-    int i = 0;
-    StringBuilder result = new StringBuilder();
-    foreach (char c in s)
+
+    public class Kata
     {
-        if (c != ' ')
+        public static object FirstNonConsecutive(int[] arr)
         {
-            result.Append((i++ % 2 == 0) ? char.ToUpper(c) : char.ToLower(c));
-        }
-        else
-        {
-            result.Append(' ');
-            i = 0;
+            if (arr == null || arr.Length == 1)
+                return null;
+            var delta = arr.Zip(arr.Skip(1), (f, s) => s - f);
+            int i = 1;
+            using (var sequenceEnum = delta.GetEnumerator())
+            {
+                while (sequenceEnum.MoveNext())
+                {
+                    if (sequenceEnum.Current != 1)
+                        return arr[i];
+                    i++;
+                }
+            }
+            return null;
         }
     }
-    return result.ToString();
-  }
-}
-
-class Program
-{
-
-
-    static void Main(string[] args)
+    class Program
     {
-        Kata.ToWeirdCase("This is a test");
+        static void Main(string[] args)
+        {
+            var test = new int[] { 1, 2, 3, 4, 6, 7, 8 };
+            Console.WriteLine(Kata.FirstNonConsecutive(test));
+        }
     }
 }
