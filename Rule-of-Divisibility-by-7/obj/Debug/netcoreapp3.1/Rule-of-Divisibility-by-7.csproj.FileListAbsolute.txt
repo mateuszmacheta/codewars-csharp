@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\bin\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.exe
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\bin\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\bin\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\bin\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\bin\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.dll
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\bin\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\obj\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\obj\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\obj\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\obj\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\obj\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.dll
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\obj\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\Rule-of-Divisibility-by-7\obj\Debug\netcoreapp3.1\Rule-of-Divisibility-by-7.genruntimeconfig.cache
