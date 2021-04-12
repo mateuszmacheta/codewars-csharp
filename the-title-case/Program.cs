@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Linq;
 
 namespace the_title_case
 {
@@ -8,11 +9,13 @@ namespace the_title_case
         public static string TitleCase(string title, string minorWords = "")
         {
             string[] titleArr = title.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            minorWords = minorWords.ToLower();
+            string[] minorWordsArr = new string[] { };
+            if (minorWords != null)
+                minorWordsArr = minorWords.ToLower().Split(' ', StringSplitOptions.RemoveEmptyEntries);
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < titleArr.Length; i++)
             {
-                if (i == 0 || !minorWords.Contains(titleArr[i].ToLower()))
+                if (i == 0 || !minorWordsArr.Any(e => e == titleArr[i].ToLower()))
                     sb.Append(toTitleCase(titleArr[i]) + ' ');
                 else
                     sb.Append((titleArr[i].ToLower()) + ' ');
@@ -30,7 +33,7 @@ namespace the_title_case
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Kata.TitleCase("a clash of KINGS", "a an the of"));
+            Console.WriteLine(Kata.TitleCase("aBC deF Ghi", null));
         }
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\bin\Debug\netcoreapp3.1\supermarket-queue.exe
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\bin\Debug\netcoreapp3.1\supermarket-queue.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\bin\Debug\netcoreapp3.1\supermarket-queue.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\bin\Debug\netcoreapp3.1\supermarket-queue.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\bin\Debug\netcoreapp3.1\supermarket-queue.dll
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\bin\Debug\netcoreapp3.1\supermarket-queue.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\obj\Debug\netcoreapp3.1\supermarket-queue.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\obj\Debug\netcoreapp3.1\supermarket-queue.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\obj\Debug\netcoreapp3.1\supermarket-queue.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\obj\Debug\netcoreapp3.1\supermarket-queue.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\obj\Debug\netcoreapp3.1\supermarket-queue.dll
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\obj\Debug\netcoreapp3.1\supermarket-queue.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\supermarket-queue\obj\Debug\netcoreapp3.1\supermarket-queue.genruntimeconfig.cache
