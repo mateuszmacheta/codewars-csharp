@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\obj\Debug\netcoreapp3.1\give-me-a-diamond.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\obj\Debug\netcoreapp3.1\give-me-a-diamond.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\obj\Debug\netcoreapp3.1\give-me-a-diamond.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\obj\Debug\netcoreapp3.1\give-me-a-diamond.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\bin\Debug\netcoreapp3.1\give-me-a-diamond.exe
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\bin\Debug\netcoreapp3.1\give-me-a-diamond.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\bin\Debug\netcoreapp3.1\give-me-a-diamond.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\bin\Debug\netcoreapp3.1\give-me-a-diamond.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\bin\Debug\netcoreapp3.1\give-me-a-diamond.dll
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\bin\Debug\netcoreapp3.1\give-me-a-diamond.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\obj\Debug\netcoreapp3.1\give-me-a-diamond.dll
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\obj\Debug\netcoreapp3.1\give-me-a-diamond.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\give-me-a-diamond\obj\Debug\netcoreapp3.1\give-me-a-diamond.genruntimeconfig.cache

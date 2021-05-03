@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\bin\Debug\netcoreapp3.1\connect-four.exe
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\bin\Debug\netcoreapp3.1\connect-four.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\bin\Debug\netcoreapp3.1\connect-four.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\bin\Debug\netcoreapp3.1\connect-four.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\bin\Debug\netcoreapp3.1\connect-four.dll
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\bin\Debug\netcoreapp3.1\connect-four.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\obj\Debug\netcoreapp3.1\connect-four.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\obj\Debug\netcoreapp3.1\connect-four.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\obj\Debug\netcoreapp3.1\connect-four.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\obj\Debug\netcoreapp3.1\connect-four.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\obj\Debug\netcoreapp3.1\connect-four.dll
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\obj\Debug\netcoreapp3.1\connect-four.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\connect-four\obj\Debug\netcoreapp3.1\connect-four.genruntimeconfig.cache

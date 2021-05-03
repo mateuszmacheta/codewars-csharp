@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\bin\Debug\netcoreapp3.1\sum-of-intervals.exe
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\bin\Debug\netcoreapp3.1\sum-of-intervals.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\bin\Debug\netcoreapp3.1\sum-of-intervals.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\bin\Debug\netcoreapp3.1\sum-of-intervals.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\bin\Debug\netcoreapp3.1\sum-of-intervals.dll
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\bin\Debug\netcoreapp3.1\sum-of-intervals.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\obj\Debug\netcoreapp3.1\sum-of-intervals.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\obj\Debug\netcoreapp3.1\sum-of-intervals.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\obj\Debug\netcoreapp3.1\sum-of-intervals.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\obj\Debug\netcoreapp3.1\sum-of-intervals.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\obj\Debug\netcoreapp3.1\sum-of-intervals.dll
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\obj\Debug\netcoreapp3.1\sum-of-intervals.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\sum-of-intervals\obj\Debug\netcoreapp3.1\sum-of-intervals.genruntimeconfig.cache

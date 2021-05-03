@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\bin\Debug\netcoreapp3.1\shopping-calculator.exe
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\bin\Debug\netcoreapp3.1\shopping-calculator.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\bin\Debug\netcoreapp3.1\shopping-calculator.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\bin\Debug\netcoreapp3.1\shopping-calculator.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\bin\Debug\netcoreapp3.1\shopping-calculator.dll
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\bin\Debug\netcoreapp3.1\shopping-calculator.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\obj\Debug\netcoreapp3.1\shopping-calculator.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\obj\Debug\netcoreapp3.1\shopping-calculator.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\obj\Debug\netcoreapp3.1\shopping-calculator.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\obj\Debug\netcoreapp3.1\shopping-calculator.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\obj\Debug\netcoreapp3.1\shopping-calculator.dll
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\obj\Debug\netcoreapp3.1\shopping-calculator.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\shopping-calculator\obj\Debug\netcoreapp3.1\shopping-calculator.genruntimeconfig.cache

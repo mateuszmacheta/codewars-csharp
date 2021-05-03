@@ -1,21 +1,21 @@
-﻿using System;
-
-
-namespace sandbox
+﻿
+public class Kata
 {
-    public class Kata
+    public static bool ValidateWord(string[] dictionary, string word)
     {
-        public static int SumMix(object[] x)
+        var result = word;
+        foreach (var dictionaryEntry in dictionary)
         {
-StringBuilder s = new StringBuilder();
+            result = result.Replace(dictionaryEntry, "");
         }
+        return result == "";
     }
-    class Program
+}
+
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            var test = new object[] { 9, 3, "7", "3" };
-            Console.WriteLine(Kata.SumMix(test));
-        }
+        System.Console.WriteLine(Kata.ValidateWord(new string[] { "code", "wars" }, "codewars"));
     }
 }

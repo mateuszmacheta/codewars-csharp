@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\bin\Debug\netcoreapp3.1\greed-is-good.exe
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\bin\Debug\netcoreapp3.1\greed-is-good.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\bin\Debug\netcoreapp3.1\greed-is-good.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\bin\Debug\netcoreapp3.1\greed-is-good.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\bin\Debug\netcoreapp3.1\greed-is-good.dll
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\bin\Debug\netcoreapp3.1\greed-is-good.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\obj\Debug\netcoreapp3.1\greed-is-good.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\obj\Debug\netcoreapp3.1\greed-is-good.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\obj\Debug\netcoreapp3.1\greed-is-good.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\obj\Debug\netcoreapp3.1\greed-is-good.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\obj\Debug\netcoreapp3.1\greed-is-good.dll
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\obj\Debug\netcoreapp3.1\greed-is-good.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\greed-is-good\obj\Debug\netcoreapp3.1\greed-is-good.genruntimeconfig.cache

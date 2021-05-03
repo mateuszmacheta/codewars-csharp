@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\bin\Debug\netcoreapp3.1\roman-numerals-decoder.exe
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\bin\Debug\netcoreapp3.1\roman-numerals-decoder.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\bin\Debug\netcoreapp3.1\roman-numerals-decoder.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\bin\Debug\netcoreapp3.1\roman-numerals-decoder.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\bin\Debug\netcoreapp3.1\roman-numerals-decoder.dll
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\bin\Debug\netcoreapp3.1\roman-numerals-decoder.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\obj\Debug\netcoreapp3.1\roman-numerals-decoder.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\obj\Debug\netcoreapp3.1\roman-numerals-decoder.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\obj\Debug\netcoreapp3.1\roman-numerals-decoder.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\obj\Debug\netcoreapp3.1\roman-numerals-decoder.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\obj\Debug\netcoreapp3.1\roman-numerals-decoder.dll
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\obj\Debug\netcoreapp3.1\roman-numerals-decoder.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\roman-numerals-decoder\obj\Debug\netcoreapp3.1\roman-numerals-decoder.genruntimeconfig.cache
