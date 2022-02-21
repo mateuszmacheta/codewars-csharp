@@ -1,0 +1,16 @@
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\bin\Debug\net5.0\tic-tac-toe-checker.exe
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\bin\Debug\net5.0\tic-tac-toe-checker.deps.json
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\bin\Debug\net5.0\tic-tac-toe-checker.runtimeconfig.json
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\bin\Debug\net5.0\tic-tac-toe-checker.runtimeconfig.dev.json
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\bin\Debug\net5.0\tic-tac-toe-checker.dll
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\bin\Debug\net5.0\ref\tic-tac-toe-checker.dll
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\bin\Debug\net5.0\tic-tac-toe-checker.pdb
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.csproj.AssemblyReference.cache
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.AssemblyInfoInputs.cache
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.AssemblyInfo.cs
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.csproj.CoreCompileInputs.cache
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.dll
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\ref\tic-tac-toe-checker.dll
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.pdb
+C:\Users\mmach\source\repos\codewars\tic-tac-toe-checker\obj\Debug\net5.0\tic-tac-toe-checker.genruntimeconfig.cache

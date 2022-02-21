@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p7GojReB+OlxP4jA6vVrifval3gqtBhINfQQ/5AB/Gfgv6iql7E5M908GWTyBNN0DuIn2/2tZoG6srxdHkT4tg==",
+  "dgSpecHash": "MArHnliXy899V0j/YEjiFU9fm8aBC/YSIXfx5RQo9gkVtKdqKqXNsWgrtIMeBe37SPg+YLmVqZmncowdDdgh8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Blazej\\Documents\\Csharp\\codewars\\sandbox\\sandbox.csproj",
+  "projectFilePath": "C:\\Users\\mmach\\source\\repos\\codewars\\sandbox\\sandbox.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

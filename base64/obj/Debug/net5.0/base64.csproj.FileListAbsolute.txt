@@ -1,0 +1,16 @@
+C:\Users\mmach\source\repos\codewars\base64\bin\Debug\net5.0\base64.exe
+C:\Users\mmach\source\repos\codewars\base64\bin\Debug\net5.0\base64.deps.json
+C:\Users\mmach\source\repos\codewars\base64\bin\Debug\net5.0\base64.runtimeconfig.json
+C:\Users\mmach\source\repos\codewars\base64\bin\Debug\net5.0\base64.runtimeconfig.dev.json
+C:\Users\mmach\source\repos\codewars\base64\bin\Debug\net5.0\base64.dll
+C:\Users\mmach\source\repos\codewars\base64\bin\Debug\net5.0\ref\base64.dll
+C:\Users\mmach\source\repos\codewars\base64\bin\Debug\net5.0\base64.pdb
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.csproj.AssemblyReference.cache
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.AssemblyInfoInputs.cache
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.AssemblyInfo.cs
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.csproj.CoreCompileInputs.cache
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.dll
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\ref\base64.dll
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.pdb
+C:\Users\mmach\source\repos\codewars\base64\obj\Debug\net5.0\base64.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\mmach\source\repos\codewars\twice-linear\bin\Debug\net5.0\twice-linear.exe
+C:\Users\mmach\source\repos\codewars\twice-linear\bin\Debug\net5.0\twice-linear.deps.json
+C:\Users\mmach\source\repos\codewars\twice-linear\bin\Debug\net5.0\twice-linear.runtimeconfig.json
+C:\Users\mmach\source\repos\codewars\twice-linear\bin\Debug\net5.0\twice-linear.runtimeconfig.dev.json
+C:\Users\mmach\source\repos\codewars\twice-linear\bin\Debug\net5.0\twice-linear.dll
+C:\Users\mmach\source\repos\codewars\twice-linear\bin\Debug\net5.0\ref\twice-linear.dll
+C:\Users\mmach\source\repos\codewars\twice-linear\bin\Debug\net5.0\twice-linear.pdb
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.csproj.AssemblyReference.cache
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.AssemblyInfoInputs.cache
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.AssemblyInfo.cs
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.csproj.CoreCompileInputs.cache
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.dll
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\ref\twice-linear.dll
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.pdb
+C:\Users\mmach\source\repos\codewars\twice-linear\obj\Debug\net5.0\twice-linear.genruntimeconfig.cache

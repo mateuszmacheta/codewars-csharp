@@ -1,16 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "i8AppECJJyW65miwSUKwpYbmmGSxj9VLbw6YhFB0iiFCf6OcLqo/KUgTaWMpn2NYbzKTX4uvmyY/wSQkPzaDug==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\machetam\\Documents\\_old\\Csharp\\codewars\\test\\test.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "PRIJBxaEaGDoj3HJtqQ6eOjgn8F93LeVaVrl+oM7yhM1GMprJ1J1pHtvRJfWVNRp6nIE4OQoCD0vTgAy/Sn4CA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\mmach\\source\\repos\\codewars\\test\\test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App with version (>= 2.2.0)\r\n  - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 2.0.0 ]",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.2"
+      ]
+    }
+  ]
 }

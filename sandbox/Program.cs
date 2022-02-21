@@ -1,4 +1,6 @@
-﻿
+﻿using System;
+using System.Text;
+
 public class Kata
 {
     public static int IntDiff(int[] arr, int n)
@@ -19,7 +21,6 @@ public class Kata
         return result;
     }
 }
-
 class Program
 {
     static void Main(string[] args)
