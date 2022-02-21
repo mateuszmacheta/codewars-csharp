@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\bin\Debug\netcoreapp3.1\permutations.exe
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\bin\Debug\netcoreapp3.1\permutations.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\bin\Debug\netcoreapp3.1\permutations.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\bin\Debug\netcoreapp3.1\permutations.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\bin\Debug\netcoreapp3.1\permutations.dll
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\bin\Debug\netcoreapp3.1\permutations.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\obj\Debug\netcoreapp3.1\permutations.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\obj\Debug\netcoreapp3.1\permutations.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\obj\Debug\netcoreapp3.1\permutations.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\obj\Debug\netcoreapp3.1\permutations.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\obj\Debug\netcoreapp3.1\permutations.dll
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\obj\Debug\netcoreapp3.1\permutations.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\permutations\obj\Debug\netcoreapp3.1\permutations.genruntimeconfig.cache

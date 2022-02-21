@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\bin\Debug\netcoreapp3.1\prize-draw.exe
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\bin\Debug\netcoreapp3.1\prize-draw.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\bin\Debug\netcoreapp3.1\prize-draw.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\bin\Debug\netcoreapp3.1\prize-draw.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\bin\Debug\netcoreapp3.1\prize-draw.dll
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\bin\Debug\netcoreapp3.1\prize-draw.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\obj\Debug\netcoreapp3.1\prize-draw.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\obj\Debug\netcoreapp3.1\prize-draw.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\obj\Debug\netcoreapp3.1\prize-draw.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\obj\Debug\netcoreapp3.1\prize-draw.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\obj\Debug\netcoreapp3.1\prize-draw.dll
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\obj\Debug\netcoreapp3.1\prize-draw.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\prize-draw\obj\Debug\netcoreapp3.1\prize-draw.genruntimeconfig.cache
