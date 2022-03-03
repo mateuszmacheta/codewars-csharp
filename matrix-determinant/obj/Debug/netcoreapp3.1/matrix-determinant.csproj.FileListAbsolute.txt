@@ -1,0 +1,13 @@
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\bin\Debug\netcoreapp3.1\matrix-determinant.exe
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\bin\Debug\netcoreapp3.1\matrix-determinant.deps.json
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\bin\Debug\netcoreapp3.1\matrix-determinant.runtimeconfig.json
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\bin\Debug\netcoreapp3.1\matrix-determinant.runtimeconfig.dev.json
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\bin\Debug\netcoreapp3.1\matrix-determinant.dll
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\bin\Debug\netcoreapp3.1\matrix-determinant.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\obj\Debug\netcoreapp3.1\matrix-determinant.csprojAssemblyReference.cache
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\obj\Debug\netcoreapp3.1\matrix-determinant.AssemblyInfoInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\obj\Debug\netcoreapp3.1\matrix-determinant.AssemblyInfo.cs
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\obj\Debug\netcoreapp3.1\matrix-determinant.csproj.CoreCompileInputs.cache
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\obj\Debug\netcoreapp3.1\matrix-determinant.dll
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\obj\Debug\netcoreapp3.1\matrix-determinant.pdb
+C:\Users\Blazej\Documents\Csharp\codewars\matrix-determinant\obj\Debug\netcoreapp3.1\matrix-determinant.genruntimeconfig.cache
