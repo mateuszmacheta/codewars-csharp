@@ -1,9 +1,6 @@
-﻿// 4 kyu Matrix Determinant
-// https://www.codewars.com/kata/52a382ee44408cea2500074c
-
 using System;
 
-public class Matrix
+public class MatrixLaplaceReduction
 {
     public static int Determinant(int[][] matrix)
     {
@@ -16,6 +13,8 @@ public class Matrix
                 {
                     if (matrix[y][x] != 0)
                         determinant += (int)Math.Pow(-1, x + y) * matrix[y][x] * Matrix.Determinant(minorMatrix(matrix, y, x));
+                    //System.Console.Write("x, y: {0} {1}: {2} * {3} * {4} ", x, y, (int)Math.Pow(-1, x + y), matrix[y][x], Matrix.Determinant(minorMatrix(matrix, y, x)));
+                    //System.Console.WriteLine($"Det: {determinant}");
                 }
             return determinant;
         }
@@ -63,19 +62,5 @@ public class Matrix
         for (int i = 0; i < matrixSize; i++)
             System.Console.WriteLine(string.Join("\t|\t", matrix[i]));
         System.Console.WriteLine();
-    }
-}
-
-namespace matrix_determinant
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            int[][] test3x3 = new int[][] { new[] { 2, 5, 3 }, new[] { 1, -2, -1 }, new[] { 1, 3, 4 } };
-            int[][] test2x2 = new int[][] { new[] { 1, 3 }, new[] { 2, 5 } };
-            var output = Matrix.Determinant(test3x3);
-            Console.WriteLine(output);
-        }
     }
 }
