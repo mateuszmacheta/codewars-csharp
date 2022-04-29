@@ -30,8 +30,8 @@ public class MatrixLaplaceWithExcludeIndexes
                 {
                     if (matrix[y][x] != 0)
                     {
-                        determinant += (int)Math.Pow(-1, x + y) * getItemAtYX(y, x, rows, columns) *
-                        Matrix.DeterminantRecursive(rows.Concat(new List<int>() { y }).ToList(), columns.Concat(new List<int>() { x }).ToList());
+                        //determinant += (int)Math.Pow(-1, x + y) * getItemAtYX(y, x, rows, columns) *
+                        //Matrix.DeterminantRecursive(rows.Concat(new List<int>() { y }).ToList(), columns.Concat(new List<int>() { x }).ToList());
                     }
                 }
             return determinant;

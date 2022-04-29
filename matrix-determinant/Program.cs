@@ -2,6 +2,7 @@
 // https://www.codewars.com/kata/52a382ee44408cea2500074c
 
 using System;
+using System.Diagnostics;
 
 public class Matrix
 {
@@ -64,6 +65,24 @@ public class Matrix
             System.Console.WriteLine(string.Join("\t|\t", matrix[i]));
         System.Console.WriteLine();
     }
+
+    public static void Test()
+    {
+        var rand = new Random();
+        for (int n = 0; n < 1; n++)
+        {
+            int mS = 10;
+            int[][] rMat = new int[mS][];
+            for (int x = 0; x < mS; x++)
+            {
+                rMat[x] = new int[mS];
+                for (int y = 0; y < mS; y++)
+                    rMat[x][y] = rand.Next(-10, 11);
+            }
+            int result = Determinant(rMat);
+            Console.WriteLine(result);
+        }
+    }
 }
 
 namespace matrix_determinant
@@ -72,10 +91,14 @@ namespace matrix_determinant
     {
         static void Main(string[] args)
         {
-            int[][] test3x3 = new int[][] { new[] { 2, 5, 3 }, new[] { 1, -2, -1 }, new[] { 1, 3, 4 } };
-            int[][] test2x2 = new int[][] { new[] { 1, 3 }, new[] { 2, 5 } };
-            var output = Matrix.Determinant(test3x3);
-            Console.WriteLine(output);
+            var sw = new Stopwatch();
+            // int[][] test3x3 = new int[][] { new[] { 2, 5, 3 }, new[] { 1, -2, -1 }, new[] { 1, 3, 4 } };
+            // int[][] test2x2 = new int[][] { new[] { 1, 3 }, new[] { 2, 5 } };
+            // var output = Matrix.Determinant(test3x3);
+            sw.Start();
+            Matrix.Test();
+            sw.Stop();
+            System.Console.WriteLine("{0:D2}", sw.ElapsedMilliseconds / 1000);
         }
     }
 }
